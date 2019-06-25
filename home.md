@@ -6,100 +6,96 @@ lang: en
 lang-ref: home.md
 
 banner:
-  title: Welcome to Fullshare
-  desc:
-  content: |
-    Fullshare Holdings Limited (HKSE: 00607.HK) is a multinational conglomerate and investment company. Founded in 2002 and listed on Hong Kong stock exchange in December 2013, Fullshare is headquartered in Nanjing, China with offices in Hong Kong, Singapore, and Australia.
-  button:
-    show: true
-    url: "#aboutus"
-    text: Continue
-  image_url: 'images/background.jpg'
+  desc: |
+    <p><span class="courgette">“Knowledge is power. Information is liberating.<br>Education is the premise of progress, in every society, in every family.”</span></p>
+    <p><span class="motto">— kofi annan</span></p>
+  image_url: '../images/home_banner.png'
 
 spotlight-about:
-  title: About Us
+  title: Providentia Education
   content: |
-    <p>Fullshare Holdings Limited (“Group”; SEHK stock code: 00607.HK) has been listed on the Hong Kong Stock Exchange since the end of 2013.</p>
-    <p>[expand]</p>
-    <p>Fullshare Holdings Limited is a Chinese conglomerate focused on becoming a global leader in healthy living. The Group’s business can be categorized in four segments, namely, tourism, education and healthcare, property, as well as renewable energy. The group’s business and projects have expanded to Mainland China, Hong Kong, Singapore, Australia, etc.</p>
-    <ul>
-    <li>a constituent stock of FTSE Global Mid Cap Index</li>
-    <li>a constituent stock of Hang Seng Composite Large Cap Index and an eligible stock under Southbound Trading of Shanghai-Hong Kong Connect</li>
-    <li>a constituent stock of Morgan Stanley Capital International (MSCI) China Index</li>
-    </ul>
-    <p>[/expand]</p>
+    <p><h3 class="courgette">Our Heritage, Their Future</h3></p>
+    <p>Providentia Education is a Hong Kong-headquartered education group focused on curating and bringing the best of international learning opportunities to families around the world.</p>
+    <p>Led by a diverse management team with international education and investment expertise, Providentia partners with leading educators and invests in schools.</p>
+    <p>By building a preeminent family of world-class educators and students, Providentia promotes the boundless exchange of ideas and inspiration within our network of schools.</p>
+    <p>We warmly welcome new enquiries and discussions with potential new partners.  Please scroll down to discover more about our education and investment philosophy and contact details.</p>
   button:
     show: true
     url: "pages/about"
     text: Learn More
-  image_url: 'images/business/property/wonder_city/1.jpg'
 
-spotlight-business:
-  title: Our Business
+banner-2:
+  title: ''
+  desc: |
+    <p><span class="noto">“学如逆水行舟，不进则退。”</span></p>
+    <p><span class="motto">— chinese proverb</span></p>
+  image_url: '../images/preschoolers.jpg'
+
+spotlight-philosophy:
+  title: Our Philosophy
   content: |
-    <!--
-    <ul class="alt">
-    <li><a href="pages/tourism" class="button">Tourism</a></li>
-    <li><a href="pages/education" class="button">Education & Healthcare</a></li>
-    <li><a href="pages/renewable" class="button">Renewable Energy</a></li>
-    <li><a href="pages/property" class="button">Property</a></li>
-    </ul>
-    -->
-    <p>
-    <a href="pages/tourism" class="button">Tourism</a>
-    <a href="pages/education" class="button">Education & Healthcare</a>
-    <a href="pages/renewable" class="button">Renewable Energy</a>
-    <a href="pages/property" class="button">Property</a>
-    </p>
-  button:
-    show: false
-    url: "pages/business"
-    text: Learn More
-  image_url: 'images/business/property/yuhua_salon/3.jpg'
-
-spotlight-governance:
-  title: Corporate Goverance
-  content:
+    <p>Our mission is to build a leading international partnership of schools and educators.</p>
+    <p>As entrepreneurs and not financiers, we have a long-term  horizon and have been patiently seeking the best and most reputable partners in our global search. </p>
+    <p>To date, we have partners in Australia, Hong Kong, and the United Kingdom.</p>
   button:
     show: true
-    url: "pages/governance"
+    url: "pages/about"
     text: Learn More
-  image_url: 'images/business/tourism/sheraton/4.jpg'
 
-items-contact:
-  title: Contact Us
-  content: Media & Investor Enquiries
-  list:
-    - title: Telephone
-      content: <a href="tel:+852 3618 8462">+852 3618 8462</a>
-      fa_class: fas fa-phone
-    - title: Fax
-      content: +852 3460 4237
-      fa_class: fas fa-fax
-    - title: Email
-      content: <a href="mailto:fullshare@intelligentjoy.com">fullshare@intelligentjoy.com</a>
-      fa_class: far fa-envelope
-    - title: Address
-      content: <a href="https://goo.gl/maps/xvcagXJyVho311Qt8" target="_blank">Unit 10-12, Level 43, Champion Tower, 3 Garden Road, Central, Hong Kong</a>
-      fa_class: fas fa-map
+banner-3:
+  title: ''
+  desc: |
+    <p><span class="courgette">“Education is the most powerful weapon which you can use to change the world.”</span></p>
+    <p><span class="motto">— nelson mandela</span></p>
+  image_url: '../images/kids_football.jpeg'
+
+spotlight-teaching:
+  title: Our Teaching Methodologies
+  content: |
+    <p>Providentia’s family of students ranges from 6 months to 16 years old. In order to cater to such a diverse and large group of students, our educators employ the most proven systems for teaching, including the Reggio Emilia approach for our younger students in Australia.</p> 
+    <p>Our global reach allows our educators to constantly share experiences and approaches on how to deal with issues.</p>
+    <p>Providentia’s teaching staff focus on conceptual understanding and ensure pupils take pride in the quality of their work.</p>
+  button:
+    show: true
+    url: "pages/about"
+    text: Learn More
+
+banner-4:
+  title: ''
+  desc: |
+    <p><span class="courgette">“Education is the passport to the future,<br>for tomorrow belongs to those who prepare for it today.”</span></p>
+    <p><span class="motto">— malcolm x</span></p>
+  image_url: '../images/college.jpg'
+
+banner-school:
+  title: Locate our Schools
+  content: |
+    <p>sparrow early learning, australia</p>
+    <p>sparrow soccer school, hong kong</p>
+    <p>boundary oak school, united kingdom</p>
+  image_url: '../images/World_map_blank_without_borders.png'
+
 ---
 <!-- Welcome Banner -->
-{% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
+{% include _banner.html key='banner' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- About Us -->
-{% include _spotlight.html key='spotlight-about' style='style1' orient='right' scheme='invert' color='' size='' content_align='left' img_pos='left' id='aboutus' %}
+{% include _spotlight.html key='spotlight-about' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='aboutus' %}
 
-<!-- Our Business -->
-{% comment %}
-# finding font icon and formatting the item grid a bit time consumming right now
-{% include _items.html key='items-businesses' style='style2' size='small' id='businesses' %}
-{% endcomment %}
-{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='left' id='businesses' %}
+<!-- Banner 2 -->
+{% include _banner.html key='banner-2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='left' %}
 
+<!-- Our Philosophy -->
+{% include _spotlight.html key='spotlight-philosophy' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='philosophy' %}
 
-<!-- Corporate Goverance -->
-{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='governance' %}
+<!-- Banner 3 -->
+{% include _banner.html key='banner-3' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='left' %}
 
+<!-- Our Teaching Philosophy -->
+{% include _spotlight.html key='spotlight-teaching' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='teaching' %}
 
-<!-- Contact Us -->
-{% include _items.html key='items-contact' style='style3' size='small' id='contact' %}
+<!-- Banner 4 -->
+{% include _banner.html key='banner-4' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='left' %}
+
+<!-- Global school -->
+{% include _spotlight.html key='banner-school' style='style1' scheme='' orient='left' size='fifty' content_align='left' img_pos='right' id='school' %}

@@ -1,19 +1,15 @@
 # Site settings
-title:       Fullshare Holdings Limited
-description: "Fullshare Holdings Limited (HKSE: 00607.HK) is a multinational conglomerate and investment company. Founded in 2002 and listed on Hong Kong stock exchange in December 2013, Fullshare is headquartered in Nanjing, China with offices in Hong Kong, Singapore, and Australia."  # Used in index.html but also for SEO in _includes/_head.html
+title:       our heritage, their future | providentia education
+description: ""  # Used in index.html but also for SEO in _includes/_head.html
 baseurl:     "" #/fullshare"                    # the subpath of your site, e.g. /blog
 url:         ""                                 # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"                       # see _layouts/post.html
-logo: /images/logo_white_small.png
-footer_note: |
-  <ul class="actions">
-    <li>&copy; Fullshare Holding Limited.</li>
-    <li>Unit 10-12, Level 43, Champion Tower, 3 Garden Road, Central, Hong Kong</li>
-  </ul>
+logo: /images/logo.png
+footer_note: ""
 demo_script: false                             # this loads the assets/js/demo.js for index.html
 
 # SEO
-admin:      "Fullshare Holding Limited"
+admin:      "providentia education"
 admin_city: "Hong Kong"                         # used for SEO, see _includes/head.html
 admin_state: "Hong Kong"                        # used for SEO, see _includes/head.html
 share-image: ""                # used for SEO, see _includes/_head.html
