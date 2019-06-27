@@ -1,24 +1,59 @@
 ---
 layout: page
-title: Leadership
+title: leadership team | providentia education | hong kong — our heritage, their future | providentia education | hong kong
 
-items:
+items-hk:
   title: Providentia | Hong Kong
   list:
     - title: Bo Wang
       content: Chairman
-      image_url: '../images/leadership/Bo2.jpg'
+      img_url: '../images/leadership/Bo2.jpg'
+      url: 'providentia-team'
     - title: Jack Tsai
       content: CEO
       img_url: '../images/leadership/Jack.jpg'
+      url: 'providentia-team'
     - title: Jonathan Broughton
       content: CIO
       img_url: '../images/leadership/Jon2.jpg'
+      url: 'providentia-team'
     - title: Max Darnton
       content: EU Chief Representative
       img_url: '../images/leadership/Max.jpg'
+      url: 'providentia-team'
 
+items-sparrow-aus:
+  title: Sparrow Early Learning | Australia
+  list:
+    - title: John Bairstow
+      content: CEO
+      img_url: '../images/leadership/John.jpg'
+    - title: Ken Orr
+      content: CFO
+      img_url: '../images/leadership/Ken.jpg'
+    - title: Marnie Testa
+      content: COO
+      img_url: '../images/leadership/Marnie.jpg'
 
+items-sparrow-hk:
+  title: Sparrow Soccer Academy | Hong Kong
+  list:
+    - title: Oscar Benavides
+      content: Head Coach
+      img_url: '../images/leadership/oscar.png'
+
+items-boundary-uk:
+  title: Boundary Oak School | United Kingdom
+  list:
+    - title: Aaron Stewart
+      content: CEO
+      img_url: '../images/leadership/aaron.png'
+    - title: James Polansky
+      content: Headmaster
+      img_url: '../images/leadership/james.png'
 
 ---
-{% include _items.html style='style3' size='small' %}
+{% include _items.html key='items-hk' style='style3' size='small' %}
+{% include _items.html key='items-sparrow-aus' style='style3' size='small' %}
+{% include _items.html key='items-sparrow-hk' style='style3' size='small' %}
+{% include _items.html key='items-boundary-uk' style='style3' size='small' %}

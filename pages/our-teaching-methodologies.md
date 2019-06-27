@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Teaching Methodologies
+title: teaching methodologies | providentia education | hong kong — our heritage, their future | providentia education | hong kong
 
 banner:
   title: The Reggio Emilia Approach

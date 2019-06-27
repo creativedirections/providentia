@@ -39,7 +39,7 @@
         {% for item in _data.list %}
         <section>
           <!-- <span class="icon style2 major {{ item.fa_class }}"></span> -->
-          <img src = "{{item.img_url}}" width="200">
+          <a href="{{ item.url }}"><img src = "{{item.img_url}}" width="200"></a>   <!--modify for leadership page-->
           <h3>{{ item.title }}</h3>
           <p>{{ item.content }}</p>
         </section>
