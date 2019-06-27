@@ -19,8 +19,8 @@
 
   <!-- Nav -->
   <nav id="nav">
-    <ul style = "color: #fff;" >    <!-- Font Color -->
-      {% if page.lang %}
+    <ul style = "color: #fff;" >    <!--Font Color-->
+      <!-- {% if page.lang %}
         {% for item in site.data[ include.fname ][page.lang] %}
         <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
         {% endfor %}
@@ -28,9 +28,9 @@
         {% for item in site.data[ include.fname ] %}
         <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
         {% endfor %}
-      {% endif %}
+      {% endif %} -->
 
-      <!-- We will Always load _data.nav.yml (Global Links) -->
+      <!-- We will Always load _data.nav.yml (Global Links)
       {% if page.lang %}
         {% for item in site.data[ "nav" ][page.lang] %}
         <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
@@ -39,34 +39,66 @@
         {% for item in site.data[ "nav" ] %}
         <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
         {% endfor %}
-      {% endif %}
+      {% endif %} -->
+    
+      <li><a href="/">Home</a></li>
+      <li>
+        <a href="/skills">Skills</a>
+        <ul>
+          <li><a href="/skills/nunchuks">Nunchuks</a></li>
+          <li><a href="/skills/bow-hunting">Bow Hunting</a></li>
+          <li><a href="/skills/computer-hacking">Computer Hacking</a></li>
+          <li><a href="/skills/disco">Disco</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="/enemies">Enemies</a>
+        <ul>
+          <li><a href="/enemies/don">Don</a></li>
+          <li><a href="/enemies/uncle-rico">Uncle Rico</a></li>
+          <li>
+            <a href="/enemies/rogue-ais">Rogue AIs ...</a>
+            <ul>
+              <li><a href="/enemies/rogue-ais/shodan">SHODAN</a></li>
+              <li><a href="/enemies/rogue-ais/wintermute">Wintermute</a></li>
+              <li><a href="/enemies/rogue-ais/neuromancer">Neuromancer</a></li>
+              <li><a href="/enemies/rogue-ais/deus">Deus</a></li>
+              <li><a href="/enemies/rogue-ais/megaera">Megaera</a></li>
+            </ul>
+          </li>
+          <li><a href="/enemies/chickens">Chickens</a></li>
+        </ul>
+      </li>
+      <li><a href="/art">Art</a></li>
+      <li><a href="/contact">Contact</a></li>
+
 
       {% comment %}
       <!-- Make Contact Us regular per Panerai
       <li><a href="{{ site.baseurl }}/home#contact" class="button special smooth-scroll-middle">Contact Us</a></li>
       -->
-      <li><a href="{{ site.baseurl }}/home#contact">Contact Us</a></li>
+      <!-- <li><a href="{{ site.baseurl }}/home#contact">Contact Us</a></li> -->
       {% endcomment %}
 
       <!--
       Language Support
         Currently only for Page & Index
       -->
-      {% if page.layout == 'page' or page.layout == 'index' %}
+      <!-- {% if page.layout == 'page' or page.layout == 'index' %}
         {% assign posts = site.posts | where: "lang-ref", page.lang-ref | sort: 'lang' %}
         {% if posts.size == 0 %}
             {% assign posts = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
         {% endif %}
-        {% if posts.size > 1 %}
+        {% if posts.size > 1 %} -->
             <!-- the "reversed" in the for loop is to show 'tc' before 'sc' -->
-            {% for post in posts reversed %}
+            <!-- {% for post in posts reversed %}
               {% if post.lang != page.lang %}
         <li><a href="{{ site.baseurl }}{{ post.url }}" class="button small fit special" title="View in {{ site.data.lang[post.lang].label }}">
           {{ site.data.lang[post.lang].button }}</a></li>
               {% endif %}
             {% endfor %}
         {% endif %}
-      {% endif %}
+      {% endif %} -->
       <!-- end of Language Support -->
     </ul>
   </nav>

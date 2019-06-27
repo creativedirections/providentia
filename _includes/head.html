@@ -6,6 +6,22 @@
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="{{ site.admin }}">
 
+    <!--jquery.dropotron-->
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="../assets/js/jquery.dropotron.min.js"></script>
+
+    <!--dropdown menu-->
+    <script>
+      $(function() {
+    
+        // Note: make sure you call dropotron on the top level <ul>
+        $('#nav > ul').dropotron(
+          // {offsetY: -10 }// Nudge up submenus by 10px to account for padding
+        );
+    
+      });
+    </script>
+
     <!-- JSON-LD -->
 
     <script type="application/ld+json">
