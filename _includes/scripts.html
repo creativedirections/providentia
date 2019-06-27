@@ -6,8 +6,9 @@
 <script src="{{ "/assets/js/swiper.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
 <!--jquery.dropotron-->
-<!-- <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script> -->
+<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 <script src="{{ "/assets/js/jquery.dropotron.min.js" | prepend: site.baseurl }}"></script>
+
 
 
 {% if site.demo_script %}
@@ -35,7 +36,8 @@ $(document).ready(function () {
       }
   })
 
-
+  //initialize dropotron()
+  $('#nav > ul').dropotron();
 });
 </script>
 <script>

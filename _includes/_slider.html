@@ -1,0 +1,42 @@
+{% comment %}
+*
+*   This include lets you easily display a Gallery.
+*
+*   usage: {% include _gallery.html key='' style='style1' lightbox=true size='medium' %}
+*
+*   The content for the gallery is retrived from the calling page's front matter; for example:
+*   gallery:
+*     title: This is a Gallery Example, which is a H2 Heading
+*     content: 'This is a p tag. You can write HTML here as well.'
+*     articles:
+*       - title: 1st Title
+*         content: text for first article
+*         img_url: /image1
+*         url: /link1
+*         button: Try Me First
+*       - title: 2nd title
+*         content: text for second article
+*         img_url: /image2
+*         url: /link2
+*         button: Try Me
+*
+*   See this link for reference: https://html5up.net/uploads/demos/story/#reference-banner
+*
+{% endcomment %}
+
+<!-- Slider -->
+<section class="spotlight mostscreen style6 invert orient-center content-align-center onscroll-image-fade-in">
+  <div class="content">
+    <h2>{{ _data.title }}</h2>
+    <p>{{ _data.content }}</p>
+      <!-- slider -->
+      <div class="swiper-container">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+           <!-- Slides -->
+          {% for slide in _data.slides %}
+          <div class="swiper-slide"><img src = '{{ slide.img_url}}'></div>
+          {% endfor %}
+        </div>
+      </div>
+  </section>
