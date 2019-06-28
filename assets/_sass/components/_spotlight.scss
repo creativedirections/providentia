@@ -329,6 +329,21 @@
 			}
 		}
 
+		.map-responsive{
+			overflow:hidden;
+			padding-bottom:56.25%;
+			position:relative;
+			width: 50%;
+		}
+		.map-responsive iframe{
+			left:0;
+			top:0;
+			height:100%;
+			width:100%;
+			position:absolute;
+		}
+
+
 		@include breakpoint(xlarge) {
 			.content {
 				@include padding(_size(padding, xlarge), _size(padding, xlarge));
@@ -352,6 +367,11 @@
 				width: 50%;
 				min-width: 0;
 			}
+
+			.map-responsive{
+				width:50%;
+			}
+
 		}
 
 		@include breakpoint(small) {
@@ -374,6 +394,11 @@
 						position: relative;
 					}
 				}
+
+				.map-responsive{
+					width:100%;
+					position:relative;
+				}
 			}
 		}
 
@@ -386,6 +411,9 @@
 		}
 		.image {
 			width:50%;
+		}
+		.map-responsive {
+			width:50%
 		}
 		}
 

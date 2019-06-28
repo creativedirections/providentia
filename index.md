@@ -12,5 +12,6 @@ banner:
     text: Get Started
   image_url: 'images/background.jpg'
 ---
-
-{% include _banner.html style='style5' scheme='invert' color='' size='fullscreen' content_align='center' img_pos='left' %}
+<!-- redirect to home -->
+<meta http-equiv="refresh" content="0; url=/home/">
+<!-- {% include _banner.html style='style5' scheme='invert' color='' size='fullscreen' content_align='center' img_pos='left' %} -->

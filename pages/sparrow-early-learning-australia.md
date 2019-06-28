@@ -5,40 +5,40 @@ gallery:
   articles:
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-44.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-44.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-46.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-46.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-58.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-58.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-67.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-67.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-73.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-73.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-107.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-107.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-135.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-135.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-170.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-170.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-180.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-180.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-235.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-235.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-260.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-260.jpg
     - title: 
       content: 
-      img_url: ../images/gallery/fulls/Sparrow Web Res-261.jpg
+      img_url: ../images/gallery/au/Sparrow Web Res-261.jpg
 
 spotlight:
   title: Sparrow Early Learning, Australia

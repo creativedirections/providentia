@@ -28,12 +28,15 @@ items-sparrow-aus:
     - title: John Bairstow
       content: CEO
       img_url: '../images/leadership/John.jpg'
+      url: 'sparrow-aus-team'
     - title: Ken Orr
       content: CFO
       img_url: '../images/leadership/Ken.jpg'
+      url: 'sparrow-aus-team'
     - title: Marnie Testa
       content: COO
       img_url: '../images/leadership/Marnie.jpg'
+      url: 'sparrow-aus-team'
 
 items-sparrow-hk:
   title: Sparrow Soccer Academy | Hong Kong
@@ -41,6 +44,7 @@ items-sparrow-hk:
     - title: Oscar Benavides
       content: Head Coach
       img_url: '../images/leadership/oscar.png'
+      url: 'sparrow-hk-team'
 
 items-boundary-uk:
   title: Boundary Oak School | United Kingdom
@@ -48,9 +52,11 @@ items-boundary-uk:
     - title: Aaron Stewart
       content: CEO
       img_url: '../images/leadership/aaron.png'
+      url: 'boundary-oak-team'
     - title: James Polansky
       content: Headmaster
       img_url: '../images/leadership/james.png'
+      url: 'boundary-oak-team'
 
 ---
 {% include _items.html key='items-hk' style='style3' size='small' %}
