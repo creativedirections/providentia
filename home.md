@@ -21,8 +21,8 @@ spotlight-about:
     <p>We warmly welcome new enquiries and discussions with potential new partners.  Please scroll down to discover more about our education and investment philosophy and contact details.</p>
   button:
     show: true
-    url: "pages/about"
-    text: Learn More
+    url: "/pages/offices-hk"
+    text: contact us
 
 banner-2:
   title: ''
@@ -39,8 +39,8 @@ spotlight-philosophy:
     <p>To date, we have partners in Australia, Hong Kong, and the United Kingdom.</p>
   button:
     show: true
-    url: "pages/about"
-    text: Learn More
+    url: "/pages/our-philosophy"
+    text: learn more
 
 banner-3:
   title: ''
@@ -57,8 +57,8 @@ spotlight-teaching:
     <p>Providentia’s teaching staff focus on conceptual understanding and ensure pupils take pride in the quality of their work.</p>
   button:
     show: true
-    url: "pages/about"
-    text: Learn More
+    url: "/pages/our-teaching-methodologies"
+    text: learn more
 
 banner-4:
   title: ''
@@ -70,9 +70,9 @@ banner-4:
 banner-school:
   title: Locate our Schools
   content: |
-    <p>sparrow early learning, australia</p>
-    <p>sparrow soccer school, hong kong</p>
-    <p>boundary oak school, united kingdom</p>
+    <p><a href="/pages/sparrow-early-learning-australia">sparrow early learning, australia</a></p>
+    <p><a href="/pages/sparrow-soccer-hongkong">sparrow soccer school, hong kong</a></p>
+    <p><a href="/pages/boundary-oak-team">boundary oak school, united kingdom</a></p>
   image_url: '../images/World_map_blank_without_borders.png'
 
 ---

@@ -72,22 +72,9 @@ spotlight:
     <p><a href="/pages/boundary-oak-team" class="button">meet the team</a></p>
     <p><a href="http://boundaryoakschool.co.uk/" class="button">visit the schools</a></p>
   image_url: '../images/boundary-oak-uk.png'
+  img_fit:  fit
 ---
 
-<section class="spotlight mostscreen style6 invert orient-center content-align-center onscroll-image-fade-in">
-  <!-- slider -->
-  <div class="swiper-container">
-    <!-- Additional required wrapper -->
-    <div class="swiper-wrapper">
-        <!-- Slides -->
-      <div class="swiper-slide"><img src ="../images/gallery/au/Sparrow Web Res-261.jpg"></div>
-      <div class="swiper-slide"><img src ="../images/gallery/au/Sparrow Web Res-44.jpg"></div>
-      <div class="swiper-slide"><img src ="../images/gallery/au/Sparrow Web Res-46.jpg"></div>
-    </div>
-    <!-- Add Pagination -->
-    <div class="swiper-pagination"></div>
-    <!-- Add Arrows -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-        </div>
-</section>
+{% include _gallery.html style='style2' lightbox=true size='big' onscroll-fade-in=true %}
+
+{% include _spotlight.html key='spotlight' style='style2' orient='right' scheme='' color='' size='fullscreen' content_align='left' img_pos='center' id='aus' %}

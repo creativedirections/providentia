@@ -1,6 +1,23 @@
 ---
 layout: page
-title: sparrow soccer school, hong kong — our heritage, their future | providentia education | hong kong
+title: 
+gallery:
+  articles:
+    - title: 
+      content: 
+      img_url: ../images/gallery/hk/f1.png
+    - title: 
+      content: 
+      img_url: ../images/gallery/hk/f2.jpg
+    - title: 
+      content: 
+      img_url: ../images/gallery/hk/f4.jpg
+    - title: 
+      content: 
+      img_url: ../images/gallery/hk/f5.jpg
+    - title: 
+      content: 
+      img_url: ../images/gallery/hk/f6.png
 
 spotlight:
   title: Sparrow Soccer School | Hong Kong
@@ -15,27 +32,8 @@ spotlight:
     <p><a href="/pages/sparrow-hk-team" class="button">meet the team</a></p>
     <p><a href="https://www.sparrowsoccerschool.com/" class="button">visit the schools</a></p>
   image_url: '../images/sparrow-web-logo.png'
-  img_fit:  fit
 ---
 
-<section class="banner fullscreen style5 invert orient-center content-align-center onscroll-image-fade-in">
-  <!-- slider -->
-  <div class="swiper-container">
-    <!-- Additional required wrapper -->
-    <div class="swiper-wrapper">
-        <!-- Slides -->
-      <div class="swiper-slide"><img src = '../images/gallery/hk/f1.png'></div>
-      <div class="swiper-slide"><img src = '../images/gallery/hk/f2.jpg'></div>
-      <div class="swiper-slide"><img src = '../images/gallery/hk/f4.jpg'></div>
-      <div class="swiper-slide"><img src = '../images/gallery/hk/f5.jpg'></div>
-      <div class="swiper-slide"><img src = '../images/gallery/hk/f6.png'></div>
-    </div>
-    <!-- Add Pagination -->
-    <div class="swiper-pagination"></div>
-    <!-- Add Arrows -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-  </div>
-</section>
+{% include _gallery.html style='style2' lightbox=true size='big' onscroll-fade-in=true %}
 
 {% include _spotlight.html key='spotlight' style='style2' orient='right' scheme='' color='' size='fullscreen' content_align='left' img_pos='center' id='aus' %}
