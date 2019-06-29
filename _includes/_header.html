@@ -9,7 +9,7 @@
 <header id="header">
   {% if site.logo %}
   <span id="logo" class= "image">
-    <a href="{{ site.baseurl }}/home">
+    <a href="{{ site.baseurl }}/index">
     <img src="{{ site.baseurl }}{{ site.logo }}" alt = "Logo of {{ site.title }}" height = "72" style = "padding-top : 10px; padding-left: 10px" />
     </a>
   </span>
@@ -19,7 +19,7 @@
 
   <!-- Nav (COMMENTED WHOLE BLOCK)-->
   <!-- <nav id="nav">
-    <ul style = "color: #fff;" >    
+    <ul style = "color: #fff;" >
       {% if page.lang %}
         {% for item in site.data[ include.fname ][page.lang] %}
         <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
@@ -28,7 +28,7 @@
         {% for item in site.data[ include.fname ] %}
         <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
         {% endfor %}
-      {% endif %} 
+      {% endif %}
 
       We will Always load _data.nav.yml (Global Links)
       {% if page.lang %}
@@ -44,14 +44,14 @@
       {% comment %}
       Make Contact Us regular per Panerai
       <li><a href="{{ site.baseurl }}/home#contact" class="button special smooth-scroll-middle">Contact Us</a></li>
-     
+
       <li><a href="{{ site.baseurl }}/home#contact">Contact Us</a></li>
       {% endcomment %}
 
-      
+
       Language Support
         Currently only for Page & Index
-     
+
       {% if page.layout == 'page' or page.layout == 'index' %}
         {% assign posts = site.posts | where: "lang-ref", page.lang-ref | sort: 'lang' %}
         {% if posts.size == 0 %}
