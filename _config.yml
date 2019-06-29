@@ -1,7 +1,7 @@
 # Site settings
 title:       our heritage, their future | providentia education
 description: ""  # Used in index.html but also for SEO in _includes/_head.html
-baseurl:     "" #/fullshare"                    # the subpath of your site, e.g. /blog
+baseurl:     "/providentia"                     # the subpath of your site, e.g. /blog
 url:         ""                                 # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"                       # see _layouts/post.html
 logo: /images/logo.png
