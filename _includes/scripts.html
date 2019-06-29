@@ -7,8 +7,7 @@
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
 <!--jquery.dropotron-->
 <script src="{{ "/assets/js/jquery.dropotron.min.js" | prepend: site.baseurl }}"></script>
-
-
+<link rel="stylesheet" href="{{ "/assets/css/dropotron.css " | prepend: site.baseurl }}">
 
 {% if site.demo_script %}
 <!--  if jekyll.environment != 'production' -->
@@ -50,6 +49,10 @@ $(document).ready(function () {
         prevEl: '.swiper-button-prev',
       },
     })
+
+  // dropotron
+  var foo = $('#nav > ul');
+  foo.dropotron();
 
 });
 </script>
