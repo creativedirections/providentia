@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Welcome to Fullshare
+title: Welcome to providentia
 banner:
   title:
   desc:

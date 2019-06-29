@@ -29,6 +29,7 @@
   <div class="content">
     <h2>{{ _data.title }}</h2>
     <p>{{ _data.content }}</p>
+  </div>
       <!-- slider -->
       <div class="swiper-container">
         <!-- Additional required wrapper -->
@@ -38,5 +39,10 @@
           <div class="swiper-slide"><img src = '{{ slide.img_url}}'></div>
           {% endfor %}
         </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
+        <!-- Add Arrows -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
       </div>
-  </section>
+</section>

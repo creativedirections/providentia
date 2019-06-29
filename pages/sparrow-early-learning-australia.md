@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 
-gallery:
-  articles:
+slider:
+  slides:
     - title: 
       content: 
       img_url: ../images/gallery/au/Sparrow Web Res-44.jpg
@@ -54,6 +54,6 @@ spotlight:
   image_url: '../images/sparrow-early-learning.png'
 ---
 
-{% include _gallery.html style='style2' lightbox=true size='big' onscroll-fade-in=true %}
+{% include _slider.html key='slider' style='style2' lightbox=true size='big' onscroll-fade-in=true %}
 
 {% include _spotlight.html key='spotlight' style='style2' orient='right' scheme='' color='' size='fullscreen' content_align='left' img_pos='center' id='aus' %}
