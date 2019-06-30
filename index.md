@@ -84,7 +84,6 @@ banner-school:
 
 <!-- Banner 2 -->
 {% include _banner.html key='banner-2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='center' %}
-{% include _banner.html key='banner-2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='center' %}
 
 <!-- Our Philosophy -->
 {% include _spotlight.html key='spotlight-philosophy' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='philosophy' %}

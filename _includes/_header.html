@@ -47,7 +47,7 @@
             <!-- the "reversed" in the for loop is to show 'tc' before 'sc' -->
             {% for post in posts reversed %}
               {% if post.lang != page.lang %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button small fit special" title="View in {{ site.data.lang[post.lang].label }}">
+        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button small fit" title="View in {{ site.data.lang[post.lang].label }}">
           {{ site.data.lang[post.lang].button }}</a></li>
               {% endif %}
             {% endfor %}
@@ -69,3 +69,15 @@
 
 <!-- Create Mobile Menu -->
 {% include _menu.html fname = include.fname %}
+<style>
+    #fill {
+      background-color: #eee;
+    }
+</style>
+
+<div id = "fill">
+<section class="wrapper style1">
+  <div class="inner">
+    </div>
+    </section>
+</div>
