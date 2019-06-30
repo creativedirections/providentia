@@ -19,7 +19,7 @@ spotlight-about:
     <p>Providentia由具有国际教育和投资专业知识的多元化管理团队领导，与领先的教育工作者合作，并进行学校投资。</p>
   button:
     show: true
-    url: "pages/offices-hk"
+    url: "pages_zh-cn/offices-hk_sc"
     text: 联络我们
 
 banner-2:
@@ -37,7 +37,7 @@ spotlight-philosophy:
     <p>迄今为止，我们在澳大利亚，香港和英国都有合作伙伴。</p>
   button:
     show: true
-    url: "pages/our-philosophy"
+    url: "pages_zh-cn/our-philosophy_sc"
     text: 了解更多
 
 banner-3:
@@ -55,7 +55,7 @@ spotlight-teaching:
     <p>Providentia的教学人员专注于概念理解，并确保学生们为能够接受这样的教育而感到骄傲。</p>
   button:
     show: true
-    url: "pages/our-teaching-methodologies"
+    url: "pages_zh-cn/our-teaching-methodologies_sc"
     text: 了解更多
 
 banner-4:
@@ -68,9 +68,9 @@ banner-4:
 banner-school:
   title: Locate our Schools
   content: |
-    <p><a href="pages/sparrow-early-learning-australia">Sparrow儿童教育集团 | 澳大利亚</a></p>
-    <p><a href="pages/sparrow-soccer-hongkong">Sparrow足球学校 | 香港</a></p>
-    <p><a href="pages/boundary-oak-team">Boundary Oak学校 | 英国</a></p>
+    <p><a href="pages_zh-cn/sparrow-early-learning-australia_sc">Sparrow儿童教育集团 | 澳大利亚</a></p>
+    <p><a href="pages_zh-cn/sparrow-soccer-hongkong_sc">Sparrow足球学校 | 香港</a></p>
+    <p><a href="pages_zh-cn/boundary-oak-team_sc">Boundary Oak学校 | 英国</a></p>
   image_url: 'images/World_map_blank_without_borders.png'
 
 ---

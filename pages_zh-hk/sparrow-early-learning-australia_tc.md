@@ -13,7 +13,7 @@ spotlight:
     <p>Sparrow秉承著其“激勵，培育，成長”的願景，繼續擴大其早期教育項目，包括健康生活方面的活動，如由國際米蘭學院教練提供的足球課程。</p>
     <p>2018年6月，Sparrow被指定為國際米蘭意大利足球俱樂部的官方教育合作夥伴，並在昆士蘭州推出澳大利亞國際學院。 澳大利亞國際米蘭足球學院於學校放假期間在昆士蘭州的Sparrow中心提供每週的足球訓練課程和足球訓練營。</p>
     <p>Providentia是Sparrow兒童教育集團的控股股東。</p>
-    <p><a href="/pages/sparrow-aus-team" class="button">認識團隊</a></p>
+    <p><a href="sparrow-aus-team_tc" class="button">認識團隊</a></p>
     <p><a href="https://www.sparrowearlylearning.com.au/" class="button">前往網站</a></p>
   image_url: '../images/sparrow-early-learning.png'
   img_fit:  fit

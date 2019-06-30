@@ -14,7 +14,7 @@ spotlight:
     <p>Sparrow 初級課程專注於為5至6歲兒童提供基本的足球技術訓練，提升他們對比賽的認知，讓他們學習基本的足球比賽規則和技巧。</p>
     <p>Sparrow 高級課程為7至12歲的兒童提供技能提升和合作性訓練，重點是培養踢足球的技巧和知識，讓兒童從中學會團隊合作。</p>
 
-    <p><a href="/pages/sparrow-hk-team" class="button">認識團隊</a></p>
+    <p><a href="sparrow-hk-team_tc" class="button">認識團隊</a></p>
     <p><a href="https://www.sparrowsoccerschool.com/" class="button">前往網站</a></p>
   image_url: '../images/sparrow-web-logo.png'
   img_fit:  fit

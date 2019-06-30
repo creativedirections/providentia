@@ -12,7 +12,7 @@ spotlight:
     <p>与当地的国家资助学校相比，Boundary Oak学校的班级规模较小，课程更加定制化，师资队伍也更强。</p>
     <p>Providentia是Boundary Oak 学校的第二大股东</p>
 
-    <p><a href="/pages/boundary-oak-team" class="button">认识团队</a></p>
+    <p><a href="boundary-oak-team_sc" class="button">认识团队</a></p>
     <p><a href="http://boundaryoakschool.co.uk/" class="button">前往网站</a></p>
   image_url: '../images/boundary-oak-uk.png'
   img_fit:  fit

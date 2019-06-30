@@ -7,58 +7,59 @@ lang-ref: leadership.md
 items-hk:
   title: Providentia | Hong Kong
   list:
-    - title: Bo Wang
-      content: Chairman
+    - title: 王波
+      content: 主席
       img_url: '../images/leadership/Bo2.jpg'
-      url: 'providentia-team'
-    - title: Jack Tsai
-      content: CEO
+      url: 'providentia-team_sc'
+    - title: 蔡笃杰
+      content: 首席执行官
       img_url: '../images/leadership/Jack.jpg'
-      url: 'providentia-team'
+      url: 'providentia-team_sc'
     - title: Jonathan Broughton
-      content: CIO
+      content: 首席投资官
       img_url: '../images/leadership/Jon2.jpg'
-      url: 'providentia-team'
-    - title: Max Darnton
-      content: EU Chief Representative
-      img_url: '../images/leadership/Max.jpg'
-      url: 'providentia-team'
+      url: 'providentia-team_sc'
+    - title: 孙婕西
+      content: 区域主任
+      img_url: '../images/leadership/Jes.jpg'
+      url: 'providentia-team_sc'
 
 items-sparrow-aus:
-  title: Sparrow Early Learning | Australia
+  title: Sparrow儿童教育集团 | 澳大利亚
   list:
     - title: John Bairstow
-      content: CEO
+      content: 首席执行官
       img_url: '../images/leadership/John.jpg'
-      url: 'sparrow-aus-team'
+      url: 'sparrow-aus-team_sc'
     - title: Ken Orr
-      content: CFO
+      content: 首席财务官
       img_url: '../images/leadership/Ken.jpg'
-      url: 'sparrow-aus-team'
+      url: 'sparrow-aus-team_sc'
     - title: Marnie Testa
-      content: COO
+      content: 首席运营官
       img_url: '../images/leadership/Marnie.jpg'
-      url: 'sparrow-aus-team'
+      url: 'sparrow-aus-team_sc'
 
 items-sparrow-hk:
-  title: Sparrow Soccer Academy | Hong Kong
+  title: Sparrow足球学校 | 香港
   list:
     - title: Oscar Benavides
-      content: Head Coach
+      content: 主教练
       img_url: '../images/leadership/oscar.png'
-      url: 'sparrow-hk-team'
+      url: 'sparrow-hk-team_sc'
 
 items-boundary-uk:
-  title: Boundary Oak School | United Kingdom
+  title: Boundary Oak学校 | 英国
   list:
     - title: Aaron Stewart
-      content: CEO
+      content: 首席执行官
       img_url: '../images/leadership/aaron.png'
-      url: 'boundary-oak-team'
+      url: 'boundary-oak-team_sc'
     - title: James Polansky
-      content: Headmaster
+      content: 校长
       img_url: '../images/leadership/james.png'
-      url: 'boundary-oak-team'
+      url: 'boundary-oak-team_sc'
+
 
 ---
 {% include _items.html key='items-hk' style='style3' size='small' %}

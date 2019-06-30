@@ -10,19 +10,19 @@ items-hk:
     - title: 王波
       content: 主席
       img_url: '../images/leadership/Bo2.jpg'
-      url: 'providentia-team'
+      url: 'providentia-team_tc'
     - title: 蔡篤傑
       content: 首席執行官
       img_url: '../images/leadership/Jack.jpg'
-      url: 'providentia-team'
+      url: 'providentia-team_tc'
     - title: Jonathan Broughton
       content: 首席投資官
       img_url: '../images/leadership/Jon2.jpg'
-      url: 'providentia-team'
+      url: 'providentia-team_tc'
     - title: 孫婕西
       content: 區域主任
       img_url: '../images/leadership/Jes.jpg'
-      url: 'providentia-team'
+      url: 'providentia-team_tc'
 
 items-sparrow-aus:
   title: Sparrow兒童教育集團 | 澳大利亞
@@ -30,15 +30,15 @@ items-sparrow-aus:
     - title: John Bairstow
       content: 首席執行官
       img_url: '../images/leadership/John.jpg'
-      url: 'sparrow-aus-team'
+      url: 'sparrow-aus-team_tc'
     - title: Ken Orr
       content: 首席財務官
       img_url: '../images/leadership/Ken.jpg'
-      url: 'sparrow-aus-team'
+      url: 'sparrow-aus-team_tc'
     - title: Marnie Testa
       content: 首席運營官
       img_url: '../images/leadership/Marnie.jpg'
-      url: 'sparrow-aus-team'
+      url: 'sparrow-aus-team_tc'
 
 items-sparrow-hk:
   title: Sparrow足球學校 | 香港
@@ -46,7 +46,7 @@ items-sparrow-hk:
     - title: Oscar Benavides
       content: 主教練
       img_url: '../images/leadership/oscar.png'
-      url: 'sparrow-hk-team'
+      url: 'sparrow-hk-team_tc'
 
 items-boundary-uk:
   title: Boundary Oak學校 | 英國
@@ -54,11 +54,11 @@ items-boundary-uk:
     - title: Aaron Stewart
       content: 首席執行官
       img_url: '../images/leadership/aaron.png'
-      url: 'boundary-oak-team'
+      url: 'boundary-oak-team_tc'
     - title: James Polansky
       content: 校長
       img_url: '../images/leadership/james.png'
-      url: 'boundary-oak-team'
+      url: 'boundary-oak-team_tc'
 
 ---
 {% include _items.html key='items-hk' style='style3' size='small' %}

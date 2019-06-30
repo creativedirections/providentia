@@ -13,7 +13,7 @@ spotlight:
     <p>Sparrow秉承着其“激励，培育，成长”的愿景，继续扩大其早期教育项目，包括健康生活方面的活动，如由国际米兰学院教练提供的足球课程。</p>
     <p>2018年6月，Sparrow被指定为国际米兰意大利足球具乐部的官方教育合作伙伴，并在昆士兰州推出澳大利亚国际学院。 澳大利亚国际米兰足球学院于学校放假期间在昆士兰州的Sparrow中心提供每周的足球训练课程和足球训练营。</p>
     <p>Providentia是Sparrow儿童教育集团的控股股东。</p>
-    <p><a href="/pages/sparrow-aus-team" class="button">认识团队</a></p>
+    <p><a href="sparrow-aus-team_sc" class="button">认识团队</a></p>
     <p><a href="https://www.sparrowearlylearning.com.au/" class="button">前往网站</a></p>
   image_url: '../images/sparrow-early-learning.png'
   img_fit:  fit
