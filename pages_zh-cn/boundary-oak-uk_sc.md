@@ -1,7 +1,7 @@
 ---
 layout: page
 title: boundary oak school, united kingdom — our heritage, their future | providentia education | hong kong
-lang: en
+lang: sc
 lang-ref: boundary-oak-uk.md
     
 spotlight:

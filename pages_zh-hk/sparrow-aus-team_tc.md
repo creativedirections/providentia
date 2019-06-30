@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sparrow australia team | providentia education — our heritage, their future | providentia education | hong kong
-lang: en
+lang: tc
 lang-ref: sparrow-aus-team.md
 
 spotlight-john:

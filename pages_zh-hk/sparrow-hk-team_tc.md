@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sparrow hong kong team | providentia education — our heritage, their future | providentia education | hong kong
-lang: en
+lang: tc
 lang-ref: sparrow-hk-team.md
 
 spotlight-oscar:

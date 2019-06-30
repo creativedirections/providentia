@@ -1,7 +1,7 @@
 ---
 layout: page
 title: providentia leadership team | providentia education | hong kong — our heritage, their future | providentia education | hong kong
-lang: en
+lang: tc
 lang-ref: providentia-team.md
 
 spotlight-bo:

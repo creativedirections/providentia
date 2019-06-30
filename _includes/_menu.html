@@ -8,29 +8,38 @@
 
 <nav id="menu">
   <ul>
-    <li><a href="{{site.baseurl}}/index">Home</a></li>
-    <li>
-      <a href="{{site.baseurl}}/pages/our-philosophy">about us</a>
-      <ul>
-        <li><a href="{{site.baseurl}}/pages/our-philosophy">our philosophy</a></li>
-        <li><a href="{{site.baseurl}}/pages/our-teaching-methodologies">our teaching methodologies</a></li>
-        <li><a href="{{site.baseurl}}/pages/leadership">our leadership team</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="{{site.baseurl}}/pages/sparrow-early-learning-australia">our schools</a>
-      <ul>
-        <li><a href="{{site.baseurl}}/pages/sparrow-early-learning-australia">sparrow early learning | au</a></li>
-        <li><a href="{{site.baseurl}}/pages/sparrow-soccer-hongkong">sparrow soccer school | hk</a></li>
-        <li><a href="{{site.baseurl}}/pages/boundary-oak-uk">boundary oak school | uk</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="{{site.baseurl}}/pages/offices-hk">our office</a>
-      <ul>
-        <li><a href="{{site.baseurl}}/pages/offices-hk">hong kong</a></li>
-        <li><a href="{{site.baseurl}}/pages/offices-london">london</a></li>
-      </ul>
-    </li>
+    <!-- We will Always load _data.nav.yml (Global Links) -->
+    {% if page.lang %}
+      {% for title in site.data[ "nav" ][page.lang] %}
+      <li><a href="{{ title.path | prepend: site.baseurl }}" >{{ title.title }}</a>
+        {% if title.subtitle %}
+        <ul>
+          {% for title in title.subtitle %}
+          <li><a href="{{title.path | prepend: site.baseurl }}">{{ title.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </li>
+      {% endfor %}
+    {% endif %}
+
+    <!--
+    Language Support
+      Currently only for Page
+    -->
+    {% if page.layout == 'page' or page.layout == 'index' %}
+      {% assign posts = site.posts | where: "lang-ref", page.lang-ref | sort: 'lang' %}
+      {% if posts.size == 0 %}
+          {% assign posts = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+          {% for post in posts reversed %}
+            {% if post.lang != page.lang %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}" class="button smooth-scroll-middle">{{ site.data.lang[post.lang].button }}</a></li>
+            {% endif %}
+          {% endfor %}
+      {% endif %}
+    {% endif %}
+    <!-- end of Language Support -->
   </ul>
 </nav>

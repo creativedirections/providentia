@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Philosophy
-lang: en
+lang: sc
 lang-ref: our-philosophy.md
 banner:
   title: Our Philosophy

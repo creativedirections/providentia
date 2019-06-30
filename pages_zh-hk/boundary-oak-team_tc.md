@@ -1,7 +1,7 @@
 ---
 layout: page
 title: boundary oak school united kingdom team | providentia education — our heritage, their future | providentia education | hong kong
-lang: en
+lang: tc
 lang-ref: boundary-oak-team.md
 spotlight-aaron:
   title: Aaron Stewart | CEO

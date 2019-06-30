@@ -18,39 +18,25 @@
   {% endif %}
 
   <!-- Nav (COMMENTED WHOLE BLOCK)-->
-  <!-- <nav id="nav">
-    <ul style = "color: #fff;" >
+  <nav id="nav">
+    <ul>
+      <!-- We will Always load _data.nav.yml (Global Links) -->
       {% if page.lang %}
-        {% for item in site.data[ include.fname ][page.lang] %}
-        <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
-        {% endfor %}
-      {% else %}
-        {% for item in site.data[ include.fname ] %}
-        <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+        {% for title in site.data[ "nav" ][page.lang] %}
+        <li><a href="{{ title.path | prepend: site.baseurl }}" >{{ title.title }}</a>
+          {% if title.subtitle %}
+          <ul>
+            {% for title in title.subtitle %}
+            <li><a href="{{title.path | prepend: site.baseurl }}">{{ title.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
         {% endfor %}
       {% endif %}
 
-      We will Always load _data.nav.yml (Global Links)
-      {% if page.lang %}
-        {% for item in site.data[ "nav" ][page.lang] %}
-        <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
-        {% endfor %}
-      {% else %}
-        {% for item in site.data[ "nav" ] %}
-        <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
-        {% endfor %}
-      {% endif %}
-
-      {% comment %}
-      Make Contact Us regular per Panerai
-      <li><a href="{{ site.baseurl }}/home#contact" class="button special smooth-scroll-middle">Contact Us</a></li>
-
-      <li><a href="{{ site.baseurl }}/home#contact">Contact Us</a></li>
-      {% endcomment %}
-
-
-      Language Support
-        Currently only for Page & Index
+      <!-- Language Support
+        Currently only for Page & Index -->
 
       {% if page.layout == 'page' or page.layout == 'index' %}
         {% assign posts = site.posts | where: "lang-ref", page.lang-ref | sort: 'lang' %}
@@ -58,7 +44,7 @@
             {% assign posts = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
         {% endif %}
         {% if posts.size > 1 %}
-            the "reversed" in the for loop is to show 'tc' before 'sc'
+            <!-- the "reversed" in the for loop is to show 'tc' before 'sc' -->
             {% for post in posts reversed %}
               {% if post.lang != page.lang %}
         <li><a href="{{ site.baseurl }}{{ post.url }}" class="button small fit special" title="View in {{ site.data.lang[post.lang].label }}">
@@ -67,42 +53,12 @@
             {% endfor %}
         {% endif %}
       {% endif %}
-      end of Language Support
-    </ul>
-  </nav> -->
-
-  <!-- dropotron nav -->
-  <nav id="nav">
-    <ul>
-      <li><a href="{{site.baseurl}}/index">Home</a></li>
-      <li>
-        <a href="{{site.baseurl}}/pages/our-philosophy">about us</a>
-        <ul>
-          <li><a href="{{site.baseurl}}/pages/our-philosophy">our philosophy</a></li>
-          <li><a href="{{site.baseurl}}/pages/our-teaching-methodologies">our teaching methodologies</a></li>
-          <li><a href="{{site.baseurl}}/pages/leadership">our leadership team</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="{{site.baseurl}}/pages/sparrow-early-learning-australia">our schools</a>
-        <ul>
-          <li><a href="{{site.baseurl}}/pages/sparrow-early-learning-australia">sparrow early learning | au</a></li>
-          <li><a href="{{site.baseurl}}/pages/sparrow-soccer-hongkong">sparrow soccer school | hk</a></li>
-          <li><a href="{{site.baseurl}}/pages/boundary-oak-uk">boundary oak school | uk</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="{{site.baseurl}}/pages/offices-hk">our office</a>
-        <ul>
-          <li><a href="{{site.baseurl}}/pages/offices-hk">hong kong</a></li>
-          <li><a href="{{site.baseurl}}/pages/offices-london">london</a></li>
-        </ul>
-      </li>
-      <li>
-        <!-- empty space -->
-      </li>
+      <!-- end of Language Support -->
     </ul>
   </nav>
+
+  <!-- dropotron nav -->
+ 
 
   <nav id="nav-small">
     <ul>

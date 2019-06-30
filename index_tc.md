@@ -2,7 +2,7 @@
 layout: index
 title: # should be set by _config
 
-lang: en
+lang: tc
 lang-ref: index.md
 
 banner:
@@ -83,7 +83,6 @@ banner-school:
 {% include _spotlight.html key='spotlight-about' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='aboutus' %}
 
 <!-- Banner 2 -->
-{% include _banner.html key='banner-2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='center' %}
 {% include _banner.html key='banner-2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='center' %}
 
 <!-- Our Philosophy -->

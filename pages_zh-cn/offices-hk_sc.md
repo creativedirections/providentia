@@ -1,7 +1,7 @@
 ---
 layout: page
 title: contact us | providentia education | hong kong — our heritage, their future | providentia education | hong kong
-lang: en
+lang: sc
 lang-ref: offices-hk.md
 
 ---

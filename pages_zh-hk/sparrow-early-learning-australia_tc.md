@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sparrow early learning, australia — our heritage, their future | providentia education | hong kong
-lang: en
+lang: tc
 lang-ref: sparrow-early-learning-australia.md
 
 spotlight:

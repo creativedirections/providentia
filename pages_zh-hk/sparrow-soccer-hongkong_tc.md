@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sparrow soccer school, hong kong — our heritage, their future | providentia education | hong kong
-lang: en
+lang: tc
 lang-ref: sparrow-soccer-hongkong.md
 
 spotlight:
