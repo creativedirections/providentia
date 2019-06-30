@@ -85,10 +85,13 @@ z-index: 100;
 						@include vendor('transition', 'background-color .25s ease-in-out');
 						font-weight: 800;
 						letter-spacing: 0.025em;
-						color: #696969;
+						color: #ffffff;
 						text-decoration: none;
 						border-radius: 6px;
 						padding: 0.5em 1em 0.5em 1em;
+						text-decoration: none !important;
+						outline: none;
+						border: 0px none transparent;
 					}
 					
 					a[href="#menu"] {
@@ -140,20 +143,20 @@ z-index: 100;
 					}
 
 					&:hover {
-						a, span {
-							background: #fff;
-						}
+						// a, span {
+						// 	background: #394D89;
+						// }
 					}
 
 					&.active {
 						a, span {
-							background: #fff;
+							// background: #394D89;
 						}
 					}
 
 					&.current {
 						a {
-							background: #444;
+							background: #3B4A85;
 							color: #fff;
 						}
 					}

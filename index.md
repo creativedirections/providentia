@@ -77,25 +77,25 @@ banner-school:
 
 ---
 <!-- Welcome Banner -->
-{% include _banner.html key='banner' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
+{% include _banner.html key='banner' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' %}
 
 <!-- About Us -->
 {% include _spotlight.html key='spotlight-about' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='aboutus' %}
 
 <!-- Banner 2 -->
-{% include _banner.html key='banner-2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='left' %}
+{% include _banner.html key='banner-2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='center' %}
 
 <!-- Our Philosophy -->
 {% include _spotlight.html key='spotlight-philosophy' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='philosophy' %}
 
 <!-- Banner 3 -->
-{% include _banner.html key='banner-3' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='left' %}
+{% include _banner.html key='banner-3' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='center' %}
 
 <!-- Our Teaching Philosophy -->
 {% include _spotlight.html key='spotlight-teaching' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='teaching' %}
 
 <!-- Banner 4 -->
-{% include _banner.html key='banner-4' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='left' %}
+{% include _banner.html key='banner-4' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='center' %}
 
 <!-- Global school -->
 {% include _spotlight.html key='banner-school' style='style1' scheme='' orient='left' size='fifty' content_align='left' img_pos='right' id='school' %}
