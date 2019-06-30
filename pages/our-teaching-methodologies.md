@@ -41,18 +41,18 @@ banner3:
 
 ---
 <!-- Welcome Banner -->
-{% include _banner.html key='banner' style='style5' scheme='invert' color='' size='fullscreen' content_align='right' img_pos='left' %}
+{% include _banner.html key='banner' style='style5' scheme='invert' color='' size='fullscreen' content_align='right' img_pos='center' %}
 
 <!-- The Reggio Emilia Approach -->
 {% include _spotlight.html key='spotlight-rm-approach' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='rm-approach' %}
 
 <!-- Banner2 -->
-{% include _banner.html key='banner2' style='style5' scheme='invert' color='' size='fullscreen' content_align='right' img_pos='left' %}
+{% include _banner.html key='banner2' style='style5' scheme='invert' color='' size='fullscreen' content_align='right' img_pos='center' %}
 
 <!-- Our teaching methodologies -->
 {% include _spotlight.html key='spotlight-our-method' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='our-method' %}
 
 <!-- Banner3 -->
-{% include _banner.html key='banner3' style='style5' scheme='invert' color='' size='fullscreen' content_align='right' img_pos='left' %}
+{% include _banner.html key='banner3' style='style5' scheme='invert' color='' size='fullscreen' content_align='right' img_pos='center' %}
 
   

@@ -22,12 +22,12 @@ banner2:
 
 ---
 <!-- Welcome Banner -->
-{% include _banner.html key='banner' style='style5' scheme='invert' color='' size='fullscreen' content_align='right' img_pos='left' %}
+{% include _banner.html key='banner' style='style5' scheme='invert' color='' size='fullscreen' content_align='right' img_pos='center' %}
 
 <!-- Our Philosophy -->
 {% include _spotlight.html key='spotlight-philosophy' style='style6' orient='' scheme='' color='' size='fullscreen' content_align='left' id='philosophy' %}
 
 <!-- Banner2 -->
-{% include _banner.html key='banner2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='left' %}
+{% include _banner.html key='banner2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='center' %}
 
   
