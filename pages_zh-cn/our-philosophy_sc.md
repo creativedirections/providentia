@@ -4,20 +4,19 @@ title: Our Philosophy
 lang: sc
 lang-ref: our-philosophy.md
 banner:
-  title: Our Philosophy
+  title: 我们的理念
   desc:
   image_url: '../images/Sparrow Web Res-235.jpg'
 
 spotlight-philosophy:
   content: |
     <p><h3 class="courgette">“Early childhood education is the key to the betterment of society.”</h3><br> <span class="motto">— maria montessori</span></p>
-    <p>Our mission is to build a leading international partnership of schools and educators.</p>
-    <p>As entrepreneurs and not financiers, we have a long-term  horizon and have been patiently seeking the best and most reputable partners in our global search. </p>
-    <p>To date, we have partners in Australia, Hong Kong, and the United Kingdom.</p>
-    <p>We are constantly expanding our learning resources  by engaging with new perspectives and teaching methodologies across the world. The Providentia team’s diverse  background and own educational experiences means we are passionate about our group and constantly searching for the best-in-class partners.</p>
-    <p>Providentia’s Schools span from Australia, Hong Kong S.A.R. to the United Kingdom with a global focus to centralise our education teaching methods to serve the needs of families and students in such areas.</p>
-    <p>Due to the growing appetite for high-quality education from the Greater China Area, Providentia also devotes itself to connect its high quality education platforms in the above countries and regions with students from the Great China Area through various exchange and study abroad programs.</p>
-    <p>As the demand for world class education from the Greater China Area grows, Providentia is also connecting students with exchange and study abroad programs with our schools.</p>
+    <p>我们的使命是建立一个与学校和教育工作者相关的国际领先的伙伴平台。</p>
+    <p>A作为企业家而非金融家，我们有一个长远的视野，我们在全球耐心地寻找最好和优良信誉的合作伙伴。</p>
+    <p>迄今为止，我们在澳大利亚，香港和英国都有合作伙伴。</p>
+    <p>通过融合世界各地的新观点和教学方法，我们在不断地扩展我们的学习资源。我们对集团的教育事业充满热情，并不断地找寻最佳的合作伙伴，Providentia的团队拥有多元化的背景和丰富的教育经历。</p>
+    <p>Providentia的学校遍布全球，尤其在澳大利亚，中国香港和英国，我们集中教育资源，以满足这些地区的家庭和学生需求。</p>
+    <p>由于大中华区对高质量教育的需求日益扩大，Providentia还致力于通过各种交流和留学项目，将上述国家和地区的高质量教育平台与大中华区的学生联系起来。</p>
 
 banner2:
   image_url: '../images/Sparrow Web Res-135.jpg'
@@ -31,5 +30,3 @@ banner2:
 
 <!-- Banner2 -->
 {% include _banner.html key='banner2' style='style5' scheme='invert' color='' size='mostscreen' content_align='left' img_pos='center' %}
-
-  

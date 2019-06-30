@@ -5,13 +5,13 @@ lang: tc
 lang-ref: sparrow-hk-team.md
 
 spotlight-oscar:
-  title: Oscar Benavides | Head Coach
+  title: Oscar Benavides | 主教練
   content: |
-    <p>Oscar Benavides is originally from Chile/Bolivia in South America and has been coaching in Hong Kong for over 17 years.</p>
+    <p>Oscar Benavides來自南美洲的智利/玻利維亞，並在香港執教超過17年。</p>
 
-    <p>He loves being a coach because he gets to share his love for the game in a fun yet professional way.</p>
+    <p>他喜歡當教練，這能使他以有趣卻專業的方式分享他對足球比賽的熱愛。</p>
 
-    <p>He holds a UEFA A license, and Spanish football methodology Madrid – Barcelona (I) and (II) and Futsal Level 2.</p>
+    <p>他持有歐足聯A牌照、西班牙足球方法馬德里 - 巴塞羅那（I）和（II）級以及五人制足球2級的專業資質。</p>
 
   image_url: '../images/leadership/oscar.png'
 

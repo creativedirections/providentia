@@ -14,7 +14,7 @@ lang-ref: offices-uk.md
   </div>
   <div class="spotlight style1 fifty content-align-left orient-left invert">
     <div class="content">
-      <h2 class="motto">London | United Kingdom</h2>
+      <h2 class="motto">倫敦</h2>
       <p>International House<br>1 - 6 Yarmouth Place<br>Mayfair, London W1J7BU</p>
       <p>Max Darnton<br>max.darnton@prov-ed.com</p>
     </div>

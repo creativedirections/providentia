@@ -5,17 +5,17 @@ lang: sc
 lang-ref: sparrow-soccer-hongkong.md
 
 spotlight:
-  title: Sparrow Soccer School | Hong Kong
+  title: Sparrow足球学校 | 香港
   content: |
-    <p>Sparrow Soccer School is a soccer school based in Hong Kong that provides coaching to children aged between 3 to 12 years old.</p>
-    <p>Established in 2014, it aspires to provide a positive and nurturing environment to help ignite children’s passion both on and off the field where children are encouraged to learn self-betterment and sportsmanship which can benefit them for life.</p>
-    <p>Sparrow Soccer School offers 3 different programs designed for boys and girls ranging from 3 to 12 years old. Sessions are created to be an enjoyable experience conducted in a safe, positive, and professional environment.</p>
-    <p>Sparrow Tots introduces soccer to children aged 3 to 4 years old in a non-technical and stress-free manner that helps toddlers develop mentally, physically, and socially.</p>
-    <p>Sparrow Junior focuses on basic soccer techniques to children aged 5 to 6 years old and develop the concept of competition where they learn the basic rules and techniques of soccer.</p>
-    <p>Sparrow Senior develops technique and cooperative soccer drills to children aged 7 to 12 years old with a focus on soccer drills and knowledge which help children work together as a team.</p>
+    <p>Sparrow足球学校是一所位于香港为3至12岁的儿童提供足球训练课程的教育机构。</p>
+    <p>成立于2014年，Sparrow足球学校致力于提供一个积极和优良的环境，帮助孩子们点燃在场内外的激情，鼓励孩子们自我提升和学习体育精神，使他们终身受益。</p>
+    <p>Sparrow 足球学校提供3种专为3至12岁的男孩和女孩设计的不同课程。课程会在安全，积极和专业的环境下进行，旨在为学生提供愉快的体验。</p>
+    <p>Sparrow 儿童课程以非技术性和无压力的方式向3至4岁的儿童介绍足球，帮助幼儿在精神，身体和社交方面得以发展。</p>
+    <p>Sparrow 初级课程专注于为5至6岁儿童提供基本的足球技术训练，提升他们对比赛的认知，让他们学习基本的足球比赛规则和技巧。</p>
+    <p>Sparrow 高级课程为7至12岁的儿童提供技能提升和合作性训练，重点是培养踢足球的技巧和知识，让儿童从中学会团队合作。</p>
 
-    <p><a href="/pages/sparrow-hk-team" class="button">meet the team</a></p>
-    <p><a href="https://www.sparrowsoccerschool.com/" class="button">visit the schools</a></p>
+    <p><a href="/pages/sparrow-hk-team" class="button">认识团队</a></p>
+    <p><a href="https://www.sparrowsoccerschool.com/" class="button">前往网站</a></p>
   image_url: '../images/sparrow-web-logo.png'
   img_fit:  fit
 ---

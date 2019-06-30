@@ -5,15 +5,15 @@ lang: sc
 lang-ref: boundary-oak-uk.md
     
 spotlight:
-  title: Boundary Oak School | United Kingdom
+  title: Boundary Oak学校 | 英国
   content: |
-    <p>Boundary Oak School is a school located in the south of England with over 200 pupils aged between 2 to 16 years old. </p>
-    <p>The school consists of four departments: Early Years Foundation Stage (aged 2 to 5 years), Pre-Prep (5 to 8 years), (iii) Prep (aged 8 to 11 years), and Senior (aged 11 to 16 years). Further, the school has a boarding house catering to pupils from Year 3 to Year 9.</p>
-    <p>Boundary Oak School provides pupils with smaller class sizes, more tailored curriculum, and staff with better teaching qualifications as compared with state-funded schools in the local area. </p>
-    <p>Providentia is the second largest shareholder of Boundary Oak School</p>
+    <p>Boundary Oak 学校是一所位于英格兰南部的学校，有200多名学生，年龄在2至16岁之间。</p>
+    <p>学校由四个部门组成：（i）幼儿基础阶段（2至5岁），（ii）前预备阶段（5至8年），（iii）预备阶段（8至11岁）和高级阶段（11至16岁）。 此外，学校还设有一所针对3至9年级学生的寄宿学校。</p>
+    <p>与当地的国家资助学校相比，Boundary Oak学校的班级规模较小，课程更加定制化，师资队伍也更强。</p>
+    <p>Providentia是Boundary Oak 学校的第二大股东</p>
 
-    <p><a href="/pages/boundary-oak-team" class="button">meet the team</a></p>
-    <p><a href="http://boundaryoakschool.co.uk/" class="button">visit the schools</a></p>
+    <p><a href="/pages/boundary-oak-team" class="button">认识团队</a></p>
+    <p><a href="http://boundaryoakschool.co.uk/" class="button">前往网站</a></p>
   image_url: '../images/boundary-oak-uk.png'
   img_fit:  fit
 ---

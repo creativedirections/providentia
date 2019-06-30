@@ -12,7 +12,7 @@ spotlight:
     <p>Sparrow Australia’s teaching philosophy is based on the Reggio Emilia approach where a natural environment provides children with a healthy surrounding and development.</p>
     <p>Leveraging on its vision to “Inspire, Nurture, Grow”, Sparrow continues to widen its early education offering to include health living activities such as soccer classes delivered by Inter Milan’s academy coaches. </p>
     <p>In June 2018, Sparrow was designated the Official Education Partner of Inter Milan Italian Football Clubs and has begun by launching Inter Academy Australia in Queensland. Inter Milan FC Academy Australia provides weekly soccer classes held at Sparrow centers and soccer camps during holiday periods in Queensland.</p>
-    <p>Sparrow is a wholly owned subsidiary of Providentia.</p>
+    <p>Fullshare holds a controlling interest in Sparrow Early Learning.</p>
     <p><a href="/pages/sparrow-aus-team" class="button">meet the team</a></p>
     <p><a href="https://www.sparrowearlylearning.com.au/" class="button">visit the schools</a></p>
   image_url: '../images/sparrow-early-learning.png'

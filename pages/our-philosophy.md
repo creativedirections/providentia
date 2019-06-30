@@ -17,7 +17,6 @@ spotlight-philosophy:
     <p>We are constantly expanding our learning resources  by engaging with new perspectives and teaching methodologies across the world. The Providentia team’s diverse  background and own educational experiences means we are passionate about our group and constantly searching for the best-in-class partners.</p>
     <p>Providentia’s Schools span from Australia, Hong Kong S.A.R. to the United Kingdom with a global focus to centralise our education teaching methods to serve the needs of families and students in such areas.</p>
     <p>Due to the growing appetite for high-quality education from the Greater China Area, Providentia also devotes itself to connect its high quality education platforms in the above countries and regions with students from the Great China Area through various exchange and study abroad programs.</p>
-    <p>As the demand for world class education from the Greater China Area grows, Providentia is also connecting students with exchange and study abroad programs with our schools.</p>
 
 banner2:
   image_url: '../images/Sparrow Web Res-135.jpg'

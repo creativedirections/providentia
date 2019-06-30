@@ -5,47 +5,60 @@ lang: tc
 lang-ref: providentia-team.md
 
 spotlight-bo:
-  title: Bo Wang | Chairman
+  title: 王波 | 主席
   content: |
-    <p>Bo Wang has a Juris Doctor degree from Duke University, USA and a Master of Laws degree from Nanjing University, PRC. He was previously a lawyer at King & Wood Mallesons and DBS Bank.</p>
+    <p>王波擁有美國杜克大學法學博士學位和中國南京大學法學碩士學位。 他以前是金杜律師事務所和星展銀行的律師。</p>
 
-    <p>Bo has served as a director of Pok Oi Hospital in Hong Kong, one of the largest charity institutions in Hong Kong. He was recognized for his charity work by the Hong Kong Government.</p>
+    <p>王波曾擔任香港博愛醫院的董事，該醫院是香港最大的慈善機構之一。 他在慈善方面作出的努力和貢獻獲得香港政府的認可。</p>
 
-    <p>Bo enjoys hiking, skiing, snorkeling and studying history. During his time in Hong Kong, he has hired an international and culturally diverse team in the company; he now enjoys the open communication and idea exchange among colleagues.</p> 
+    <p>王波喜歡遠足，滑雪，浮潛和研究歷史。 在香港期間，他在公司聘請了一支國際化，文化多元化的團隊。他鼓勵同事之間進行開放的溝通和想法交流。</p> 
 
-    <p>Bo is married and has two young children.</p>
+    <p>王波已婚，有兩個小孩。</p>
 
   image_url: '../images/leadership/Bo2.jpg'
 
 spotlight-jack:
-  title: Jack Tsai | Chief Executive Officer
+  title: 蔡篤傑 | 首席執行官
   content: |
-    <p>Jack Tsai worked in various investment banking positions in Hong Kong prior to joining Providentia as CEO.</p> 
+    <p>蔡篤傑在加入Providentia擔任首席執行官之前曾在香港的多個投資銀行工作。</p>
 
-    <p>He is responsible for the strategic planning and general management of the company.</p>  
+    <p>他負責公司的戰略規劃和綜合管理。</p>    
 
-    <p>Jack has lived in various countries around Asia, including Singapore, mainland China, Hong Kong, Taiwan, Japan, and various cities across the USA.</p> 
+    <p>蔡篤傑曾在亞洲的幾個地區，包括新加坡，中國大陸，中國香港，中國台灣，日本和美國幾個城市居住。</p>
 
-    <p>He spent his high school years at boarding school at the Lawrenceville School and graduated from the University of Pennsylvania.</p> 
+    <p>他在Lawrenceville寄宿學校度過了他的高中，並畢業於賓夕法尼亞大學。</p>
 
-    <p>His favourite hobbies include participating in and watching sports.</p>
+    <p>他的愛好包括參加和觀看體育比賽。</p>
 
   image_url: '../images/leadership/Jack.jpg'
 
 spotlight-jon:
-  title: Jonathan Broughton | Chief Investment Officer
+  title: Jonathan Broughton | 首席投資官
   content: |
-    <p>Jonathan Broughton gained extensive legal, structuring and investing experience working in Australia, the UK and Hong Kong prior to joining Providentia as CIO.</p>
+    <p>在加入Providentia擔任首席投資官之前，Jonathan Broughton曾在澳大利亞，英國和香港工作，獲得了廣泛的法律，融資結構和投資經驗。</p>
 
-    <p>He is responsible for overseeing and implementing the financing and investment strategies of the group.</p>    
+    <p>他負責監督和實施集團的融資和投資策略。</p>    
 
-    <p>Jonathan works closely with management teams and acts as a director of various portfolio companies, including Sparrow Early Learning Pty Ltd and QV Education (Group) Limited.</p>
+    <p>Jonathan與管理團隊密切合作，擔任各種投資組合公司的董事，包括Sparrow 兒童教育集團和QV 教育（集團）有限公司。</p>
 
-    <p>He holds a Bachelor of Arts and a Bachelor of Laws from the University of Queensland, Australia and has completed the Private Equity and Venture Capital Course at Harvard Business School, Boston USA.</p>
+    <p>他擁有澳大利亞昆士蘭大學的文學學士學位和法學學士學位，並在美國波士頓哈佛商學院完成了私募股權和風險投資課程。</p>
 
-    <p>Jonathan enjoys travelling, watching and participating in sports.  He is a member of the Hong Kong Football Club’s hockey team.</p>
+    <p>Jonathan喜歡旅遊，觀看和參加體育運動。 他是香港足球俱樂部曲棍球隊的成員。</p>
 
   image_url: '../images/leadership/Jon2.jpg'
+
+spotlight-jes:
+  title: 孫婕西 | 區域主任
+  content: |
+    <p>孫婕西是Providentia的亞洲區域主任。</p>
+
+    <p>她畢業於新加坡南洋理工大學電氣與電子工程專業，並擁有CFA特許金融分析師資格。</p>    
+
+    <p>Jessie出生於中國南京，在新加坡生活了7年，並在東南亞地區建立了許多聯繫。</p>
+
+    <p>Jessie利用業餘時間閱讀和旅行。 她能說流利的普通話和英語。</p>
+
+  image_url: '../images/leadership/Jes.jpg'
 
 ---
 <!-- Bo Wang -->
@@ -54,3 +67,5 @@ spotlight-jon:
 {% include _spotlight.html key='spotlight-jack' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='jack' %}
 <!-- Jonathan Broughton -->
 {% include _spotlight.html key='spotlight-jon' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='jon' %}
+<!-- Jessie Sun -->
+{% include _spotlight.html key='spotlight-jes' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='jes' %}

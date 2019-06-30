@@ -7,56 +7,56 @@ lang-ref: leadership.md
 items-hk:
   title: Providentia | Hong Kong
   list:
-    - title: Bo Wang
-      content: Chairman
+    - title: 王波
+      content: 主席
       img_url: '../images/leadership/Bo2.jpg'
       url: 'providentia-team'
-    - title: Jack Tsai
-      content: CEO
+    - title: 蔡篤傑
+      content: 首席執行官
       img_url: '../images/leadership/Jack.jpg'
       url: 'providentia-team'
     - title: Jonathan Broughton
-      content: CIO
+      content: 首席投資官
       img_url: '../images/leadership/Jon2.jpg'
       url: 'providentia-team'
-    - title: Max Darnton
-      content: EU Chief Representative
-      img_url: '../images/leadership/Max.jpg'
+    - title: 孫婕西
+      content: 區域主任
+      img_url: '../images/leadership/Jes.jpg'
       url: 'providentia-team'
 
 items-sparrow-aus:
-  title: Sparrow Early Learning | Australia
+  title: Sparrow兒童教育集團 | 澳大利亞
   list:
     - title: John Bairstow
-      content: CEO
+      content: 首席執行官
       img_url: '../images/leadership/John.jpg'
       url: 'sparrow-aus-team'
     - title: Ken Orr
-      content: CFO
+      content: 首席財務官
       img_url: '../images/leadership/Ken.jpg'
       url: 'sparrow-aus-team'
     - title: Marnie Testa
-      content: COO
+      content: 首席運營官
       img_url: '../images/leadership/Marnie.jpg'
       url: 'sparrow-aus-team'
 
 items-sparrow-hk:
-  title: Sparrow Soccer Academy | Hong Kong
+  title: Sparrow足球學校 | 香港
   list:
     - title: Oscar Benavides
-      content: Head Coach
+      content: 主教練
       img_url: '../images/leadership/oscar.png'
       url: 'sparrow-hk-team'
 
 items-boundary-uk:
-  title: Boundary Oak School | United Kingdom
+  title: Boundary Oak學校 | 英國
   list:
     - title: Aaron Stewart
-      content: CEO
+      content: 首席執行官
       img_url: '../images/leadership/aaron.png'
       url: 'boundary-oak-team'
     - title: James Polansky
-      content: Headmaster
+      content: 校長
       img_url: '../images/leadership/james.png'
       url: 'boundary-oak-team'
 

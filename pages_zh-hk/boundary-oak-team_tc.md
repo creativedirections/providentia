@@ -4,22 +4,22 @@ title: boundary oak school united kingdom team | providentia education — our h
 lang: tc
 lang-ref: boundary-oak-team.md
 spotlight-aaron:
-  title: Aaron Stewart | CEO
+  title: Aaron Stewart | 首席執行官
   content: |
-    <p>Aaron Stewart was previously a co-founder of Pemberton Stewart and worked in the financial markets in London before moving to Hong Kong.</p>
+    <p>Aaron Stewart曾是Pemberton Stewart的聯合創始人，曾於倫敦的金融市場工作，後移居香港。</p>
 
-    <p>He studied at Bradfield College and is currently attending Harvard Business School on the OPM Program.</p>
+    <p>他曾就讀於Bradfield學院，目前正入讀哈佛商學院的OPM課程。</p>
 
   image_url: '../images/leadership/aaron.png'
 
 spotlight-james:
-  title: James Polansky | Headmaster
+  title: James Polansky | 校長
   content: |
-    <p>James Polansky is a former committee member of the Association of Teachers of Mathematics and UK Mathematical Association (Meridian Branch).</p>
+    <p>James Polansky是數學教師協會和英國數學協會（Meridian分部）的前委員會成員。</p>
 
-    <p>He has taught for 6 years, most recently as Head of Mathematics and mentor for trainee teachers having qualified as a mathematics teacher in 2009, achieving a 1st Class (distinction) in his PGCE.</p> 
+    <p>James Polansky是數學系主任及實習教師的導師。他任教6年，於2009年在學位教師教育證書課程（PGCE）中取得一級榮譽，成為數學老師。</p> 
 
-    <p>He studied at Colegio Monteagudo in Spain, Bradfield College and Cambridge University.</p>
+    <p>他曾就讀於西班牙Monteagudo學校，Bradfield學院和劍橋大學。</p>
 
   image_url: '../images/leadership/james.png'
 

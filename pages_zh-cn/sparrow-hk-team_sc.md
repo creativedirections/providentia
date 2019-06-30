@@ -1,17 +1,17 @@
 ---
 layout: page
 title: sparrow hong kong team | providentia education — our heritage, their future | providentia education | hong kong
-lang: sc
+lang: tc
 lang-ref: sparrow-hk-team.md
 
 spotlight-oscar:
-  title: Oscar Benavides | Head Coach
+  title: Oscar Benavides | 主教练
   content: |
-    <p>Oscar Benavides is originally from Chile/Bolivia in South America and has been coaching in Hong Kong for over 17 years.</p>
+    <p>Oscar Benavides来自南美洲的智利/玻利维亚，并在香港执教超过17年。</p>
 
-    <p>He loves being a coach because he gets to share his love for the game in a fun yet professional way.</p>
+    <p>他喜欢当教练，这能使他以有趣却专业的方式分享他对足球比赛的热爱。</p>
 
-    <p>He holds a UEFA A license, and Spanish football methodology Madrid – Barcelona (I) and (II) and Futsal Level 2.</p>
+    <p>他持有欧足联A牌照、西班牙足球方法马德里 - 巴塞罗那（I）和（II）级以及五人制足球2级的专业资质。</p>
 
   image_url: '../images/leadership/oscar.png'
 

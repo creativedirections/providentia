@@ -5,24 +5,24 @@ lang: sc
 lang-ref: sparrow-aus-team.md
 
 spotlight-john:
-  title: John Bairstow | Chief Executive Officer
+  title: John Bairstow | 首席执行官
   content: |
-    <p>Jonathan Bairstow was previously the Chief Financial Officer and Company Secretary of Affinity Education Group from start-up to over 100 childcare centres.</p> 
-    <p>He is a Chartered Accountant with over 15 years of experience in senior roles with PwC, GdF Suez, Deloitte, and Arthur Andersen.</p>
+    <p>Jonathan Bairstow曾经是Affinity 教育集团的首席财务官兼公司秘书，他见证着Affinity从初创企业发展到拥有100多个托儿中心的教育集团。</p> 
+    <p>他是特许会计师，在普华永道，法国燃气公司，德勤和安达信有超过15年担任高级职务的经验。</p>
   image_url: '../images/leadership/John.jpg'
 
 spotlight-ken:
-  title: Ken Orr | Chief Financial Officer
+  title: Ken Orr | 首席财务官
   content: |
-    <p>Ken Orr was previously Head of Business  Analysis at Goodstart Early Learning, Australia’s largest long day care provider.</p>
-    <p>He is a Chartered Accountant with over 15 years of experience  in senior roles with PwC, Origin Energy, and the Royal Bank of Scotland.</p>
+    <p>Ken Orr曾担任澳大利亚最大的全日托服务提供商Goodstart Early Learning的商业分析主管。</p>
+    <p>他是特许会计师，在普华永道，原始能源公司和苏格兰皇家银行有超过15年担任高级职务的经验。</p>
   image_url: '../images/leadership/Ken.jpg'
 
 spotlight-marnie:
-  title: Marnie Testa | Chief Operations Officer
+  title: Marnie Testa | 首席运营官
   content: |
-    <p>Marnie Testa was previously an operations executive with over 23 years of experience in childcare across Australia, New Zealand, and Canada.</p>
-    <p>She was the VP of Operations for Canada’s first listed childcare company, overseeing expansion from 11 to 50 centres.</p>
+    <p>Marnie Testa曾在澳大利亚，新西兰和加拿大有超过23年的育儿中心运营经验。</p>
+    <p>她是加拿大第一家上市儿童保育公司的运营副总裁，帮助公司从11育儿中心扩张至50个。</p>
   image_url: '../images/leadership/Marnie.jpg'
 
 ---

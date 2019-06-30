@@ -5,16 +5,16 @@ lang: tc
 lang-ref: sparrow-early-learning-australia.md
 
 spotlight:
-  title: Sparrow Early Learning, Australia
+  title: Sparrow兒童教育集團 ｜ 澳大利亞
   content: |
-    <p>Sparrow Early Learning is a leading early education provider with 31 early childcare centers located in Victoria and Queensland, Australia. </p>
-    <p>Sparrow provides over 2,500 childcare places for children aged between 6 months to 6 years old during weekdays from 6:30am to 6:30pm. </p>
-    <p>Sparrow Australia’s teaching philosophy is based on the Reggio Emilia approach where a natural environment provides children with a healthy surrounding and development.</p>
-    <p>Leveraging on its vision to “Inspire, Nurture, Grow”, Sparrow continues to widen its early education offering to include health living activities such as soccer classes delivered by Inter Milan’s academy coaches. </p>
-    <p>In June 2018, Sparrow was designated the Official Education Partner of Inter Milan Italian Football Clubs and has begun by launching Inter Academy Australia in Queensland. Inter Milan FC Academy Australia provides weekly soccer classes held at Sparrow centers and soccer camps during holiday periods in Queensland.</p>
-    <p>Sparrow is a wholly owned subsidiary of Providentia.</p>
-    <p><a href="/pages/sparrow-aus-team" class="button">meet the team</a></p>
-    <p><a href="https://www.sparrowearlylearning.com.au/" class="button">visit the schools</a></p>
+    <p>Sparrow 兒童教育集團是一家領先的早期教育機構，在澳大利亞維多利亞州和昆士蘭州設有31個早期兒童保育中心。</p>
+    <p>Sparrow於工作日的早上6:30至下午6:30為2500多個6個月至6歲的兒童提供保育場所。</p>
+    <p>Sparrow 澳大利亞的教學理念基於瑞吉歐方法，強調自然的環境能夠為兒童提供健康的環境和發展。</p>
+    <p>Sparrow秉承著其“激勵，培育，成長”的願景，繼續擴大其早期教育項目，包括健康生活方面的活動，如由國際米蘭學院教練提供的足球課程。</p>
+    <p>2018年6月，Sparrow被指定為國際米蘭意大利足球俱樂部的官方教育合作夥伴，並在昆士蘭州推出澳大利亞國際學院。 澳大利亞國際米蘭足球學院於學校放假期間在昆士蘭州的Sparrow中心提供每週的足球訓練課程和足球訓練營。</p>
+    <p>Providentia是Sparrow兒童教育集團的控股股東。</p>
+    <p><a href="/pages/sparrow-aus-team" class="button">認識團隊</a></p>
+    <p><a href="https://www.sparrowearlylearning.com.au/" class="button">前往網站</a></p>
   image_url: '../images/sparrow-early-learning.png'
   img_fit:  fit
 ---

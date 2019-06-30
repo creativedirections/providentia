@@ -27,7 +27,7 @@ spotlight-about:
 banner-2:
   title: ''
   desc: |
-    <p><span class="noto">“学如逆水行舟，不进则退。”</span></p>
+    <p><span class="noto">「學如逆水行舟，不進則退。」</span></p>
     <p><span class="motto">— chinese proverb</span></p>
   image_url: 'images/preschoolers.jpg'
 

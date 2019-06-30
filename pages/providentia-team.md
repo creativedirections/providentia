@@ -47,6 +47,19 @@ spotlight-jon:
 
   image_url: '../images/leadership/Jon2.jpg'
 
+spotlight-jes:
+  title: Jessie Sun | Regional Coordinator
+  content: |
+    <p>Jessie Sun is the Asia Regional Coordinator of Providentia.</p>
+
+    <p>She graduated with honours in Electrical & Electronic Engineering from Nanyang </p>    
+
+    <p>A native of Nanjing, China, Jessie spent 7 years living in Singapore and has developed many connections in the Southeast Asia region.</p>
+
+    <p>Jessie spends her spare time reading and traveling and has been to several countries across the world. She speaks Mandarin and English fluently.</p>
+
+  image_url: '../images/leadership/Jes.jpg'
+
 ---
 <!-- Bo Wang -->
 {% include _spotlight.html key='spotlight-bo' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='bo' %}
@@ -54,3 +67,5 @@ spotlight-jon:
 {% include _spotlight.html key='spotlight-jack' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='jack' %}
 <!-- Jonathan Broughton -->
 {% include _spotlight.html key='spotlight-jon' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='jon' %}
+<!-- Jessie Sun -->
+{% include _spotlight.html key='spotlight-jes' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='jes' %}

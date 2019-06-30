@@ -26,62 +26,62 @@ en:
       - title: hong kong
         path: /pages/offices-hk
       - title: london
-        path: /pages/offices-london
+        path: /pages/offices-uk
 
 tc:
-  - title: home
+  - title: 主頁
     path: /index_tc
-  - title: about us
-    path: /pages/our-philosophy
+  - title: 關於我們
+    path: /pages_zh-hk/our-philosophy_tc
     subtitle: 
-      - title: our philosophy
-        path: /pages/our-philosophy
-      - title: our teaching methodologies
-        path: /pages/our-teaching-methodologies
-      - title: our leadership team
-        path: /pages/leadership
-  - title: our schools
-    path: /pages/sparrow-early-learning-australia
+      - title: 我們的理念
+        path: /pages_zh-hk/our-philosophy_tc
+      - title: 我們的教學方法 
+        path: /pages_zh-hk/our-teaching-methodologies_tc
+      - title: 我們的領導團隊
+        path: /pages_zh-hk/leadership_tc
+  - title: 我們的學校
+    path: /pages_zh-hk/sparrow-early-learning-australia_tc
     subtitle:
-      - title: sparrow early learning | au
-        path: /pages/sparrow-early-learning-australia
-      - title: sparrow soccer school | hk
-        path: /pages/sparrow-soccer-hongkong
-      - title: boundary oak school
-        path: /pages/boundary-oak-uk
-  - title: our office
-    path: /pages/offices-hk
+      - title: Sparrow兒童教育集團 | 澳大利亞
+        path: /pages_zh-hk/sparrow-early-learning-australia_tc
+      - title: Sparrow足球學校 | 香港
+        path: /pages_zh-hk/sparrow-soccer-hongkong_tc
+      - title: Boundary Oak學校 | 英國
+        path: /pages_zh-hk/boundary-oak-uk_tc
+  - title: 我們的辦事處
+    path: /pages_zh-hk/offices-hk_tc
     subtitle: 
-      - title: hong kong
-        path: /pages/offices-hk
-      - title: london
-        path: /pages/offices-london
+      - title: 香港
+        path: /pages_zh-hk/offices-hk_tc
+      - title: 倫敦
+        path: /pages_zh-hk/offices-uk_tc
 
 sc:
-  - title: home
-    path: /index_sc
-  - title: about us
-    path: /pages/our-philosophy
+  - title: 主页
+    path: /index_tc
+  - title: 关于我们
+    path: /pages_zh-cn/our-philosophy_sc
     subtitle: 
-      - title: our philosophy
-        path: /pages/our-philosophy
-      - title: our teaching methodologies
-        path: /pages/our-teaching-methodologies
-      - title: our leadership team
-        path: /pages/leadership
-  - title: our schools
-    path: /pages/sparrow-early-learning-australia
+      - title: 我们的理念
+        path: /pages_zh-cn/our-philosophy_sc
+      - title: 我们的教学方法 
+        path: /pages_zh-cn/our-teaching-methodologies_sc
+      - title: 我们的领导团队
+        path: /pages_zh-cn/leadership_sc
+  - title: 我们的学校
+    path: /pages_zh-cn/sparrow-early-learning-australia_sc
     subtitle:
-      - title: sparrow early learning | au
-        path: /pages/sparrow-early-learning-australia
-      - title: sparrow soccer school | hk
-        path: /pages/sparrow-soccer-hongkong
-      - title: boundary oak school
-        path: /pages/boundary-oak-uk
-  - title: our office
-    path: /pages/offices-hk
+      - title: Sparrow儿童教育集团 | 澳大利亚
+        path: /pages_zh-cn/sparrow-early-learning-australia_sc
+      - title: Sparrow足球学校 | 香港
+        path: /pages_zh-cn/sparrow-soccer-hongkong_sc
+      - title: Boundary Oak学校 | 英国
+        path: /pages_zh-cn/boundary-oak-uk_sc
+  - title: 我们的办事处
+    path: /pages_zh-cn/offices-hk_sc
     subtitle: 
-      - title: hong kong
-        path: /pages/offices-hk
-      - title: london
-        path: /pages/offices-london
+      - title: 香港
+        path: /pages_zh-cn/offices-hk_sc
+      - title: 伦敦
+        path: /pages_zh-cn/offices-uk_sc
