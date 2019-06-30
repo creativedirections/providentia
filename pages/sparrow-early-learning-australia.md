@@ -22,7 +22,7 @@ spotlight:
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
         <!-- Slides -->
-      <div class="swiper-slide"><img src = '/images/gallery/au/Sparrow Web Res-44.jpg'></div>
+      <div class="swiper-slide"><img src = '../images/gallery/au/Sparrow Web Res-44.jpg'></div>
       <div class="swiper-slide"><img src = '../images/gallery/au/Sparrow Web Res-46.jpg'></div>
       <div class="swiper-slide"><img src = '../images/gallery/au/Sparrow Web Res-58.jpg'></div>
       <div class="swiper-slide"><img src = '../images/gallery/au/Sparrow Web Res-67.jpg'></div>
