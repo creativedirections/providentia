@@ -6,7 +6,7 @@
 *   usage: {% include _header.html fname='nav' %}
 {% endcomment %}
 
-<header id="header">
+<header id="header" style = "background-color: #eee; height: 100px;">
   {% if site.logo %}
   <span id="logo" class= "image">
     <a href="{{ site.baseurl }}/index">
@@ -58,7 +58,7 @@
   </nav>
 
   <!-- dropotron nav -->
- 
+
 
   <nav id="nav-small">
     <ul>
@@ -69,6 +69,8 @@
 
 <!-- Create Mobile Menu -->
 {% include _menu.html fname = include.fname %}
+
+{% comment %}
 <style>
     #fill {
       background-color: #eee;
@@ -81,3 +83,4 @@
     </div>
     </section>
 </div>
+{% endcomment %}
