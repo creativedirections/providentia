@@ -35,7 +35,10 @@
       {% if posts.size > 1 %}
           {% for post in posts reversed %}
             {% if post.lang != page.lang %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}" class="button smooth-scroll-middle">{{ site.data.lang[post.lang].button }}</a></li>
+              {if post.lang=='en' %}         <!--please help john-->
+                <li><a href="www.prov-ed.com/{{ post.url }}" class="button smooth-scroll-middle">{{ site.data.lang[post.lang].button }}</a></li>  
+              {% else %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}" class="button smooth-scroll-middle">{{ site.data.lang[post.lang].button }}</a></li>
             {% endif %}
           {% endfor %}
       {% endif %}
