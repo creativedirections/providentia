@@ -17,7 +17,6 @@ lang-ref: offices-hk.md
     <div class="content">
       <h2 class="motto">香港</h2>
       <p>中環花園道3號冠君大廈43樓10-12室</p>
-      <p>孫婕西<br>+852 3665 7188<br>jessie.sun@prov-ed.com</p>
     </div>
     <div class="map-responsive">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9882353581775!2d114.1584173148547!3d22.278435485334853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040065c1870041%3A0x61e1d2957f71aa!2sChampion+Tower!5e0!3m2!1sen!2shk!4v1561703621989!5m2!1sen!2shk" width="300" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
