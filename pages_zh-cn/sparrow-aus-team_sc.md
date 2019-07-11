@@ -26,6 +26,7 @@ spotlight-marnie:
   image_url: '../images/leadership/Marnie.jpg'
 
 ---
+<section class="wrapper style1 align-center invert" style = "height: 100px;"></section>
 <!-- john -->
 {% include _spotlight.html key='spotlight-john' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='john' %}
 <!-- ken -->

@@ -25,6 +25,7 @@ spotlight-james:
 
 
 ---
+<section class="wrapper style1 align-center invert" style = "height: 100px;"></section>
 <!-- aaron -->
 {% include _spotlight.html key='spotlight-aaron' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='aaron' %}
 <!-- james -->
