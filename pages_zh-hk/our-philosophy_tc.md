@@ -4,7 +4,7 @@ title: Our Philosophy
 lang: tc
 lang-ref: our-philosophy.md
 banner:
-  title: 我們的理念
+  chi-title: 我們的理念
   desc:
   image_url: '../images/Sparrow Web Res-235.jpg'
 
