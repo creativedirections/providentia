@@ -1,11 +1,11 @@
-—
+---
 layout: page
 title: teaching methodologies | providentia education | hong kong — our heritage, their future | providentia education | hong kong
 lang: sc
 lang-ref: our-teaching-methodologies.md
 
 banner:
-  title: 瑞吉欧教学法
+  chi-title: 瑞吉欧教学法
   desc:
   image_url: '../images/Sparrow Web Res-46.jpg'
 

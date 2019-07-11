@@ -5,7 +5,7 @@ lang: tc
 lang-ref: our-teaching-methodologies.md
 
 banner:
-  title: 瑞吉歐教學法
+  chi-title: 瑞吉歐教學法
   desc:
   image_url: '../images/Sparrow Web Res-46.jpg'
 
