@@ -19,10 +19,6 @@ items-hk:
       content: 首席投資官
       img_url: '../images/leadership/Jon2.jpg'
       url: 'providentia-team_tc'
-    - title: 孫婕西
-      content: 區域主任
-      img_url: '../images/leadership/Jes.jpg'
-      url: 'providentia-team_tc'
 
 items-sparrow-aus:
   title: Sparrow兒童教育集團 | 澳大利亞
@@ -61,6 +57,7 @@ items-boundary-uk:
       url: 'boundary-oak-team_tc'
 
 ---
+<section class="wrapper style1 align-center invert" style = "height: 100px;"></section>
 {% include _items.html key='items-hk' style='style3' size='small' %}
 {% include _items.html key='items-sparrow-aus' style='style3' size='small' %}
 {% include _items.html key='items-sparrow-hk' style='style3' size='small' %}

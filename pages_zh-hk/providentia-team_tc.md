@@ -47,25 +47,11 @@ spotlight-jon:
 
   image_url: '../images/leadership/Jon2.jpg'
 
-spotlight-jes:
-  title: 孫婕西 | 區域主任
-  content: |
-    <p>孫婕西是Providentia的亞洲區域主任。</p>
-
-    <p>她畢業於新加坡南洋理工大學電氣與電子工程專業，並擁有CFA特許金融分析師資格。</p>    
-
-    <p>Jessie出生於中國南京，在新加坡生活了7年，並在東南亞地區建立了許多聯繫。</p>
-
-    <p>Jessie利用業餘時間閱讀和旅行。 她能說流利的普通話和英語。</p>
-
-  image_url: '../images/leadership/Jes.jpg'
-
 ---
+<section class="wrapper style1 align-center invert" style = "height: 100px;"></section>
 <!-- Bo Wang -->
 {% include _spotlight.html key='spotlight-bo' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='bo' %}
 <!-- Jack Tsai -->
 {% include _spotlight.html key='spotlight-jack' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='jack' %}
 <!-- Jonathan Broughton -->
 {% include _spotlight.html key='spotlight-jon' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='jon' %}
-<!-- Jessie Sun -->
-{% include _spotlight.html key='spotlight-jes' style='style2' orient='right' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='center' id='jes' %}
