@@ -1,7 +1,9 @@
 .dropotron {
-    background: #fff;
+    /* background: #fff; */
+    background: #4163AB;
     letter-spacing: 0.025em;
-    color: #696969;
+    color: #eee;
+    /* color: #fff */
     text-decoration: none;
     border-radius: 6px;
     padding: 0.75em 0;
@@ -14,7 +16,7 @@
 }
 
     .dropotron li {
-        border-top: solid 1px #eee;
+        border-top: solid 1px #4163AB;
         line-height: 3em;
         padding-left: 0;
     }
@@ -35,7 +37,8 @@
         }
 
             .dropotron li > a:hover, .dropotron li > span:hover {
-                background: #eee;
+                /* background: #8190B0; */
+                color: #8190B0
             }
 
         .dropotron li.active > a, .dropotron li.active > span {
@@ -53,7 +56,7 @@
             position: absolute;
             top: -0.5em;
             left: 1em;
-            border-bottom: solid 0.75em #ffffff;
+            border-bottom: solid 0.75em #4163AB;
             border-left: solid 0.75em transparent;
             border-right: solid 0.75em transparent;
             z-index: 1;
