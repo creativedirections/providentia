@@ -48,10 +48,10 @@
             {% for post in posts reversed %}
               {% if post.lang != page.lang %}
                   {% if site.data.lang[post.lang].direct %}     <!-- please help john-->
-                  <li><a href="{{ site.directurl }}{{ post.url }}" class="button small fit" title="View in {{ site.data.lang[post.lang].label }}">
+                  <li><a href="{{ site.directurl }}{{ post.url }}"  title="View in {{ site.data.lang[post.lang].label }}">
                     {{ site.data.lang[post.lang].button }}</a></li>
                   {% else %}
-                  <li><a href="{{ site.baseurl }}{{ post.url }}" class="button small fit" title="View in {{ site.data.lang[post.lang].label }}">
+                  <li><a href="{{ site.baseurl }}{{ post.url }}"  title="View in {{ site.data.lang[post.lang].label }}">
                     {{ site.data.lang[post.lang].button }}</a></li>
                   {% endif %}
               {% endif %}
