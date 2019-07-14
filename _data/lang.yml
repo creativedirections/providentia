@@ -4,6 +4,7 @@ en:
   label: English
   button: EN
   icon: 🇬🇧
+  direct: true
 tc:
   label: Traditional Chinese - 繁體
   button: 繁
