@@ -1,0 +1,5 @@
+# mapping of en pages to SquareSpace version
+# for Tom's hacky requirement to keep his EN version
+
+- post_url: /pages/sparrow-early-learning-australia
+  target_url: https://www.prov-ed.com/schools/sparrow-early-learning-australia

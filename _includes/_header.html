@@ -17,7 +17,6 @@
   <h1 id="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
   {% endif %}
 
-  <!-- Nav (COMMENTED WHOLE BLOCK)-->
   <nav id="nav">
     <ul>
       <!-- We will Always load _data.nav.yml (Global Links) -->
@@ -48,7 +47,7 @@
             {% for post in posts reversed %}
               {% if post.lang != page.lang %}
                   {% if site.data.lang[post.lang].direct %}     <!-- please help john-->
-                  <li><a href="{{ site.directurl }}{{ post.url }}"  title="View in {{ site.data.lang[post.lang].label }}">
+                  <li><a href="{% include func_redirect_link.html url = post.url %}"  title="View in {{ site.data.lang[post.lang].label }}">
                     {{ site.data.lang[post.lang].button }}</a></li>
                   {% else %}
                   <li><a href="{{ site.baseurl }}{{ post.url }}"  title="View in {{ site.data.lang[post.lang].label }}">
@@ -62,9 +61,6 @@
     </ul>
   </nav>
 
-  <!-- dropotron nav -->
-
-
   <nav id="nav-small">
     <ul>
       <li><a href="#menu" style="float:right;"><br></a></li>
@@ -74,18 +70,3 @@
 
 <!-- Create Mobile Menu -->
 {% include _menu.html fname = include.fname %}
-
-{% comment %}
-<style>
-    #fill {
-      background-color: #394D89;
-    }
-</style>
-
-<div id = "fill">
-<section class="wrapper style1">
-  <div class="inner">
-    </div>
-    </section>
-</div>
-{% endcomment %}
