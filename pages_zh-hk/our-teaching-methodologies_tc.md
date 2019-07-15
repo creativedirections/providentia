@@ -29,7 +29,7 @@ banner2:
 spotlight-our-method:
   content: |
     <p><h3 class="courgette">“An investment in knowledge pays the best interest.”</h3><span class="motto">— benjamin franklin</span></p>
-    Providentia的學生年齡從6個月到16歲。 為了迎合這樣一個多元化和龐大的學生群體，我們的教育工作者採用最成熟的教學系統，包括為我們在澳大利亞的學童提供瑞吉歐（Reggio Emilia）教學方法。
+    <p>Providentia的學生年齡從6個月到16歲。 為了迎合這樣一個多元化和龐大的學生群體，我們的教育工作者採用最成熟的教學系統，包括為我們在澳大利亞的學童提供瑞吉歐（Reggio Emilia）教學方法。</p>
     <p>我們的全球平台使我們的教育工作者能夠不斷分享如何處理問題的經驗和方法。</p>
     <p>Providentia的教學人員專注於概念理解，並確保學生們為能够接受這樣的教育而感到驕傲。</p>
     <p>在早期教育時期，我們基於瑞吉歐方法提供創新的早期兒童教育以激發孩子們的靈感。瑞吉歐方法是一種以學生為中心和建構主義的教育學，讓孩子在關係驅動的環境中通過自我導向和體驗學習。</p>

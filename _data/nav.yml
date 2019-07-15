@@ -59,7 +59,7 @@ tc:
 
 sc:
   - title: 主页
-    path: /index_tc
+    path: /index_sc
   - title: 关于我们
     path: /pages_zh-cn/our-philosophy_sc
     subtitle: 

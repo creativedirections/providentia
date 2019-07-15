@@ -10,7 +10,7 @@ spotlight:
     <p>Boundary Oak 學校是一所位於英格蘭南部的學校，有200多名學生，年齡在2至16歲之間。</p>
     <p>學校由四個部門組成：（i）幼兒基礎階段（2至5歲），（ii）前預備阶段（5至8年），（iii）預備階段（8至11歲）和高級階段（11至16歲）。 此外，學校還設有一所針對3至9年級學生的寄宿學校。</p>
     <p>與當地的國家資助學校相比，Boundary Oak學校的班級規模較小，課程更加定制化，師資隊伍也更強。</p>
-    <p>Providentia是Boundary Oak 學校的第二大股東</p>
+    <p>Providentia是Boundary Oak 學校的第二大股東。</p>
 
     <p><a href="boundary-oak-team_tc" class="button">認識團隊</a></p>
     <p><a href="http://boundaryoakschool.co.uk/" class="button">前往網站</a></p>
