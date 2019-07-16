@@ -46,9 +46,13 @@
             <!-- the "reversed" in the for loop is to show 'tc' before 'sc' -->
             {% for post in posts reversed %}
               {% if post.lang != page.lang %}
-                  {% if site.data.lang[post.lang].direct %}     <!-- please help john-->
+                  {% if site.data.lang[post.lang].direct %}
+                  <li><a href="{{ site.directurl}}"  title="View in {{ site.data.lang[post.lang].label }}">
+                    {{ site.data.lang[post.lang].button }}</a></li>
+                  <!-- For mapping of this site's en link to Square Space version
                   <li><a href="{% include func_redirect_link.html url = post.url %}"  title="View in {{ site.data.lang[post.lang].label }}">
                     {{ site.data.lang[post.lang].button }}</a></li>
+                  -->
                   {% else %}
                   <li><a href="{{ site.baseurl }}{{ post.url }}"  title="View in {{ site.data.lang[post.lang].label }}">
                     {{ site.data.lang[post.lang].button }}</a></li>
