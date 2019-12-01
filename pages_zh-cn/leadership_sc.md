@@ -19,6 +19,14 @@ items-hk:
       content: 首席投资官
       img_url: '../images/leadership/Jon2.jpg'
       url: 'providentia-team_sc'
+    - title: Max Darnton
+      content: 欧盟首席代表
+      img_url: '../images/leadership/Max.jpg'
+      url: 'providentia-team_tc'
+    - title: Simon Thorley
+      content: InTuition Languages 首席执行官
+      img_url: '../images/leadership/Simon.jpg'
+      url: 'providentia-team_tc'
 
 items-sparrow-aus:
   title: Sparrow儿童教育集团 | 澳大利亚
