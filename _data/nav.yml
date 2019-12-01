@@ -49,6 +49,8 @@ tc:
         path: /pages_zh-hk/sparrow-soccer-hongkong_tc
       - title: Boundary Oak學校 | 英國
         path: /pages_zh-hk/boundary-oak-uk_tc
+      - title: Intuition Languages
+        path: /pages_zh-hk/intuition-languages_tc
   - title: 我們的辦事處
     path: /pages_zh-hk/offices-hk_tc
     subtitle: 
@@ -78,6 +80,8 @@ sc:
         path: /pages_zh-cn/sparrow-soccer-hongkong_sc
       - title: Boundary Oak学校 | 英国
         path: /pages_zh-cn/boundary-oak-uk_sc
+      - title: Intuition Languages
+        path: /pages_zh-hk/intuition-languages_sc
   - title: 我们的办事处
     path: /pages_zh-cn/offices-hk_sc
     subtitle: 
