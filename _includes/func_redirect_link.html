@@ -1,0 +1,11 @@
+{% comment %}
+*   Look up _data/redirect.yml for target_url
+*
+*   usage: {% include func_redirect_link.html url='pages/source_page' %}
+{% endcomment %}
+
+{% for link in site.data.redirect %}
+  {% if link.post_url == include.url %}
+    {{ link.target_url }}
+  {% endif %}
+{% endfor %}
