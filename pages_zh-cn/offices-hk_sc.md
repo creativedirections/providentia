@@ -16,10 +16,10 @@ lang-ref: offices-hk.md
   <div class="spotlight style1 fifty content-align-left orient-left invert">
     <div class="content">
     <h2 class="motto">香港</h2>
-      <p>中环花园道3号冠君大厦43楼10-12室</p>
+      <p>金钟夏慤道18号海富中心1座28楼2805室</p>
     </div>
     <div class="map-responsive">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.9882353581775!2d114.1584173148547!3d22.278435485334853!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040065c1870041%3A0x61e1d2957f71aa!2sChampion+Tower!5e0!3m2!1sen!2shk!4v1561703621989!5m2!1sen!2shk" width="300" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922.9901314029006!2d114.16427562918003!3d22.279485099083427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400671ba9fad5%3A0x86076644c32ff0fd!2s18%20Harcourt%20Rd%2C%20Admiralty!5e0!3m2!1sen!2shk!4v1575170354774!5m2!1sen!2shk" width="300" height="300" frameborder="0" style="border:0" allowfullscreen>></iframe>
     </div>
   </div>
 </section>
